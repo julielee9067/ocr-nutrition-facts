@@ -1,0 +1,379 @@
+{
+    "fields": [
+        {
+            "inferText": "Nutrition Facts"
+        },
+        {
+            "inferText": "Serving Size 1 Cookie (19g)"
+        },
+        {
+            "inferText": "Servings Per Container 10"
+        },
+        {
+            "inferText": "Amount Per Serving"
+        },
+        {
+            "inferText": "Calories 90 Calories from Fat 30"
+        },
+        {
+            "inferText": "% Daily Value*"
+        },
+        {
+            "inferText": "Total Fat 3.5g 5%"
+        },
+        {
+            "inferText": "5%"
+        },
+        {
+            "inferText": "Saturated Fat"
+        },
+        {
+            "inferText": "1g"
+        },
+        {
+            "inferText": "Trans Fat 0g"
+        },
+        {
+            "inferText": "Cholesterol 5mg 2%"
+        },
+        {
+            "inferText": "Sodium 25mg 1%"
+        },
+        {
+            "inferText": "Total Carbohydrate 13g 4%"
+        },
+        {
+            "inferText": "Dietary Fiber 1g 4%"
+        },
+        {
+            "inferText": "Sugars 9g"
+        },
+        {
+            "inferText": "Protein 1g"
+        },
+        {
+            "inferText": "Vitamin A 2% Vitamin C 0%"
+        },
+        {
+            "inferText": "Calcium 2% Iron 2%"
+        },
+        {
+            "inferText": "*Percent Daily Values are based on a 2,000"
+        },
+        {
+            "inferText": "calorie diet. Your daily values may be higher or"
+        },
+        {
+            "inferText": "lower depending on your calorie needs:"
+        },
+        {
+            "inferText": "Calories: 2,000 2,500"
+        },
+        {
+            "inferText": "Total Fat Less than 65g 80g"
+        },
+        {
+            "inferText": "Saturated Fat Less than 20g 25g"
+        },
+        {
+            "inferText": "Nutrition"
+        },
+        {
+            "inferText": "Facts"
+        },
+        {
+            "inferText": "Serving"
+        },
+        {
+            "inferText": "Size"
+        },
+        {
+            "inferText": "1"
+        },
+        {
+            "inferText": "Cookie"
+        },
+        {
+            "inferText": "(19g)"
+        },
+        {
+            "inferText": "Servings"
+        },
+        {
+            "inferText": "Per"
+        },
+        {
+            "inferText": "Container"
+        },
+        {
+            "inferText": "10"
+        },
+        {
+            "inferText": "Amount"
+        },
+        {
+            "inferText": "Per"
+        },
+        {
+            "inferText": "Serving"
+        },
+        {
+            "inferText": "Calories"
+        },
+        {
+            "inferText": "90"
+        },
+        {
+            "inferText": "Calories"
+        },
+        {
+            "inferText": "from"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "30"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Daily"
+        },
+        {
+            "inferText": "Value*"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "3.5g"
+        },
+        {
+            "inferText": "5%"
+        },
+        {
+            "inferText": "Saturated"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "1g"
+        },
+        {
+            "inferText": "5%"
+        },
+        {
+            "inferText": "Trans"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "0g"
+        },
+        {
+            "inferText": "Cholesterol"
+        },
+        {
+            "inferText": "5mg"
+        },
+        {
+            "inferText": "2%"
+        },
+        {
+            "inferText": "Sodium"
+        },
+        {
+            "inferText": "25mg"
+        },
+        {
+            "inferText": "1%"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Carbohydrate"
+        },
+        {
+            "inferText": "13g"
+        },
+        {
+            "inferText": "4%"
+        },
+        {
+            "inferText": "Dietary"
+        },
+        {
+            "inferText": "Fiber"
+        },
+        {
+            "inferText": "1g"
+        },
+        {
+            "inferText": "4%"
+        },
+        {
+            "inferText": "Sugars"
+        },
+        {
+            "inferText": "9g"
+        },
+        {
+            "inferText": "Protein"
+        },
+        {
+            "inferText": "1g"
+        },
+        {
+            "inferText": "Vitamin"
+        },
+        {
+            "inferText": "A"
+        },
+        {
+            "inferText": "2%"
+        },
+        {
+            "inferText": "Vitamin"
+        },
+        {
+            "inferText": "C"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "Calcium"
+        },
+        {
+            "inferText": "2%"
+        },
+        {
+            "inferText": "Iron"
+        },
+        {
+            "inferText": "2%"
+        },
+        {
+            "inferText": "*Percent"
+        },
+        {
+            "inferText": "Daily"
+        },
+        {
+            "inferText": "Values"
+        },
+        {
+            "inferText": "are"
+        },
+        {
+            "inferText": "based"
+        },
+        {
+            "inferText": "on"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "2,000"
+        },
+        {
+            "inferText": "calorie"
+        },
+        {
+            "inferText": "diet."
+        },
+        {
+            "inferText": "Your"
+        },
+        {
+            "inferText": "daily"
+        },
+        {
+            "inferText": "values"
+        },
+        {
+            "inferText": "may"
+        },
+        {
+            "inferText": "be"
+        },
+        {
+            "inferText": "higher"
+        },
+        {
+            "inferText": "or"
+        },
+        {
+            "inferText": "lower"
+        },
+        {
+            "inferText": "depending"
+        },
+        {
+            "inferText": "on"
+        },
+        {
+            "inferText": "your"
+        },
+        {
+            "inferText": "calorie"
+        },
+        {
+            "inferText": "needs:"
+        },
+        {
+            "inferText": "Calories:"
+        },
+        {
+            "inferText": "2,000"
+        },
+        {
+            "inferText": "2,500"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "Less"
+        },
+        {
+            "inferText": "than"
+        },
+        {
+            "inferText": "65g"
+        },
+        {
+            "inferText": "80g"
+        },
+        {
+            "inferText": "Saturated"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "Less"
+        },
+        {
+            "inferText": "than"
+        },
+        {
+            "inferText": "20g"
+        },
+        {
+            "inferText": "25g"
+        }
+    ]
+}

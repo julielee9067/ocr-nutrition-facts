@@ -1,0 +1,146 @@
+{
+    "uid": "94beaaf15fe1452e85d221d33a02da46",
+    "name": "eng_real_18",
+    "inferResult": "SUCCESS",
+    "message": "SUCCESS",
+    "validationResult": {
+        "result": "NO_REQUESTED"
+    },
+    "fields": [
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 71.0,
+                        "y": 44.0
+                    },
+                    {
+                        "x": 115.0,
+                        "y": 44.0
+                    },
+                    {
+                        "x": 115.0,
+                        "y": 51.0
+                    },
+                    {
+                        "x": 71.0,
+                        "y": 51.0
+                    }
+                ]
+            },
+            "inferText": "Nutrition",
+            "inferConfidence": 0.9999,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 119.0,
+                        "y": 44.0
+                    },
+                    {
+                        "x": 142.0,
+                        "y": 44.0
+                    },
+                    {
+                        "x": 142.0,
+                        "y": 51.0
+                    },
+                    {
+                        "x": 119.0,
+                        "y": 50.0
+                    }
+                ]
+            },
+            "inferText": "Facts",
+            "inferConfidence": 0.9896,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 72.0,
+                        "y": 55.0
+                    },
+                    {
+                        "x": 104.0,
+                        "y": 57.0
+                    },
+                    {
+                        "x": 103.0,
+                        "y": 64.0
+                    },
+                    {
+                        "x": 71.0,
+                        "y": 63.0
+                    }
+                ]
+            },
+            "inferText": "Valeut",
+            "inferConfidence": 0.8257,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 107.0,
+                        "y": 57.0
+                    },
+                    {
+                        "x": 144.0,
+                        "y": 55.0
+                    },
+                    {
+                        "x": 144.0,
+                        "y": 61.0
+                    },
+                    {
+                        "x": 107.0,
+                        "y": 63.0
+                    }
+                ]
+            },
+            "inferText": "Dutwood",
+            "inferConfidence": 0.5842,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 30.0,
+                        "y": 68.0
+                    },
+                    {
+                        "x": 57.0,
+                        "y": 68.0
+                    },
+                    {
+                        "x": 57.0,
+                        "y": 89.0
+                    },
+                    {
+                        "x": 30.0,
+                        "y": 89.0
+                    }
+                ]
+            },
+            "inferText": "OEE",
+            "inferConfidence": 0.4603,
+            "type": "NORMAL",
+            "lineBreak": true
+        }
+    ]
+}

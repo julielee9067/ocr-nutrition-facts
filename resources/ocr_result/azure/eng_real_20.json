@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "inferText": "Nutrition Facts",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 47.0,
+                        "y": 25.0
+                    },
+                    {
+                        "x": 114.0,
+                        "y": 26.0
+                    },
+                    {
+                        "x": 113.0,
+                        "y": 36.0
+                    },
+                    {
+                        "x": 47.0,
+                        "y": 35.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Sorwags Per Container about !",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 47.0,
+                        "y": 43.0
+                    },
+                    {
+                        "x": 111.0,
+                        "y": 43.0
+                    },
+                    {
+                        "x": 111.0,
+                        "y": 48.0
+                    },
+                    {
+                        "x": 47.0,
+                        "y": 49.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Total Fat 1.50",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 51.0,
+                        "y": 79.0
+                    },
+                    {
+                        "x": 81.0,
+                        "y": 79.0
+                    },
+                    {
+                        "x": 81.0,
+                        "y": 85.0
+                    },
+                    {
+                        "x": 51.0,
+                        "y": 85.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Lig keiteral 10mg",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 52.0,
+                        "y": 101.0
+                    },
+                    {
+                        "x": 92.0,
+                        "y": 101.0
+                    },
+                    {
+                        "x": 92.0,
+                        "y": 108.0
+                    },
+                    {
+                        "x": 52.0,
+                        "y": 108.0
+                    }
+                ]
+            }
+        }
+    ]
+}

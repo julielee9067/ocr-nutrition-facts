@@ -1,0 +1,648 @@
+{
+    "fields": [
+        {
+            "inferText": "Nutrition Facts\nSening Sun Ycpna\nSergs P Co od\neSevg\nCaies 120 Caones\nT\nSetunt fat\nCteester g\nSt 12re\nTetal Canett\nDaty er le\nBapa g\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 46,
+                        "y": 26
+                    },
+                    {
+                        "x": 112,
+                        "y": 26
+                    },
+                    {
+                        "x": 112,
+                        "y": 136
+                    },
+                    {
+                        "x": 46,
+                        "y": 136
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Nutrition",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 49,
+                        "y": 26
+                    },
+                    {
+                        "x": 87,
+                        "y": 27
+                    },
+                    {
+                        "x": 87,
+                        "y": 36
+                    },
+                    {
+                        "x": 49,
+                        "y": 35
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Facts",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 91,
+                        "y": 27
+                    },
+                    {
+                        "x": 112,
+                        "y": 27
+                    },
+                    {
+                        "x": 112,
+                        "y": 35
+                    },
+                    {
+                        "x": 91,
+                        "y": 35
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Sening",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 48,
+                        "y": 35
+                    },
+                    {
+                        "x": 64,
+                        "y": 35
+                    },
+                    {
+                        "x": 64,
+                        "y": 42
+                    },
+                    {
+                        "x": 48,
+                        "y": 42
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Sun",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 66,
+                        "y": 35
+                    },
+                    {
+                        "x": 75,
+                        "y": 35
+                    },
+                    {
+                        "x": 75,
+                        "y": 43
+                    },
+                    {
+                        "x": 66,
+                        "y": 43
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Ycpna",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 77,
+                        "y": 37
+                    },
+                    {
+                        "x": 100,
+                        "y": 37
+                    },
+                    {
+                        "x": 100,
+                        "y": 42
+                    },
+                    {
+                        "x": 77,
+                        "y": 42
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Sergs",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 46,
+                        "y": 42
+                    },
+                    {
+                        "x": 66,
+                        "y": 42
+                    },
+                    {
+                        "x": 66,
+                        "y": 49
+                    },
+                    {
+                        "x": 46,
+                        "y": 49
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "P",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 68,
+                        "y": 44
+                    },
+                    {
+                        "x": 74,
+                        "y": 44
+                    },
+                    {
+                        "x": 74,
+                        "y": 48
+                    },
+                    {
+                        "x": 68,
+                        "y": 48
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Co",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 76,
+                        "y": 42
+                    },
+                    {
+                        "x": 81,
+                        "y": 42
+                    },
+                    {
+                        "x": 81,
+                        "y": 49
+                    },
+                    {
+                        "x": 76,
+                        "y": 49
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "od",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 98,
+                        "y": 43
+                    },
+                    {
+                        "x": 107,
+                        "y": 43
+                    },
+                    {
+                        "x": 107,
+                        "y": 50
+                    },
+                    {
+                        "x": 98,
+                        "y": 50
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "eSevg",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 65,
+                        "y": 55
+                    },
+                    {
+                        "x": 86,
+                        "y": 55
+                    },
+                    {
+                        "x": 86,
+                        "y": 61
+                    },
+                    {
+                        "x": 65,
+                        "y": 61
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Caies",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 50,
+                        "y": 63
+                    },
+                    {
+                        "x": 66,
+                        "y": 63
+                    },
+                    {
+                        "x": 66,
+                        "y": 68
+                    },
+                    {
+                        "x": 50,
+                        "y": 68
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "120",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 69,
+                        "y": 64
+                    },
+                    {
+                        "x": 75,
+                        "y": 64
+                    },
+                    {
+                        "x": 75,
+                        "y": 67
+                    },
+                    {
+                        "x": 69,
+                        "y": 67
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Caones",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 82,
+                        "y": 62
+                    },
+                    {
+                        "x": 97,
+                        "y": 62
+                    },
+                    {
+                        "x": 97,
+                        "y": 68
+                    },
+                    {
+                        "x": 82,
+                        "y": 68
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "T",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 46,
+                        "y": 77
+                    },
+                    {
+                        "x": 54,
+                        "y": 77
+                    },
+                    {
+                        "x": 54,
+                        "y": 84
+                    },
+                    {
+                        "x": 46,
+                        "y": 84
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Setunt",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 55,
+                        "y": 85
+                    },
+                    {
+                        "x": 73,
+                        "y": 85
+                    },
+                    {
+                        "x": 73,
+                        "y": 91
+                    },
+                    {
+                        "x": 55,
+                        "y": 91
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "fat",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 76,
+                        "y": 86
+                    },
+                    {
+                        "x": 89,
+                        "y": 86
+                    },
+                    {
+                        "x": 89,
+                        "y": 93
+                    },
+                    {
+                        "x": 76,
+                        "y": 93
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Cteester",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 53,
+                        "y": 102
+                    },
+                    {
+                        "x": 76,
+                        "y": 102
+                    },
+                    {
+                        "x": 76,
+                        "y": 107
+                    },
+                    {
+                        "x": 53,
+                        "y": 107
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 79,
+                        "y": 103
+                    },
+                    {
+                        "x": 89,
+                        "y": 103
+                    },
+                    {
+                        "x": 89,
+                        "y": 107
+                    },
+                    {
+                        "x": 79,
+                        "y": 107
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "St",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 50,
+                        "y": 108
+                    },
+                    {
+                        "x": 68,
+                        "y": 109
+                    },
+                    {
+                        "x": 68,
+                        "y": 115
+                    },
+                    {
+                        "x": 50,
+                        "y": 114
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "12re",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 71,
+                        "y": 110
+                    },
+                    {
+                        "x": 83,
+                        "y": 111
+                    },
+                    {
+                        "x": 83,
+                        "y": 114
+                    },
+                    {
+                        "x": 71,
+                        "y": 113
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Tetal",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 52,
+                        "y": 116
+                    },
+                    {
+                        "x": 64,
+                        "y": 116
+                    },
+                    {
+                        "x": 64,
+                        "y": 122
+                    },
+                    {
+                        "x": 52,
+                        "y": 122
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Canett",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 66,
+                        "y": 116
+                    },
+                    {
+                        "x": 90,
+                        "y": 116
+                    },
+                    {
+                        "x": 90,
+                        "y": 122
+                    },
+                    {
+                        "x": 66,
+                        "y": 122
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Daty",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 57,
+                        "y": 123
+                    },
+                    {
+                        "x": 70,
+                        "y": 123
+                    },
+                    {
+                        "x": 70,
+                        "y": 129
+                    },
+                    {
+                        "x": 57,
+                        "y": 129
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "er",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 72,
+                        "y": 123
+                    },
+                    {
+                        "x": 80,
+                        "y": 123
+                    },
+                    {
+                        "x": 80,
+                        "y": 128
+                    },
+                    {
+                        "x": 72,
+                        "y": 128
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "le",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 83,
+                        "y": 124
+                    },
+                    {
+                        "x": 87,
+                        "y": 124
+                    },
+                    {
+                        "x": 87,
+                        "y": 129
+                    },
+                    {
+                        "x": 83,
+                        "y": 129
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Bapa",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 55,
+                        "y": 131
+                    },
+                    {
+                        "x": 69,
+                        "y": 131
+                    },
+                    {
+                        "x": 69,
+                        "y": 136
+                    },
+                    {
+                        "x": 55,
+                        "y": 136
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 72,
+                        "y": 131
+                    },
+                    {
+                        "x": 80,
+                        "y": 131
+                    },
+                    {
+                        "x": 80,
+                        "y": 136
+                    },
+                    {
+                        "x": 72,
+                        "y": 136
+                    }
+                ]
+            }
+        }
+    ]
+}

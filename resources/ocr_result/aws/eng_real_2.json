@@ -1,0 +1,370 @@
+{
+    "fields": [
+        {
+            "inferText": "CHEF'S CUT REAL JERKY CO."
+        },
+        {
+            "inferText": "PREMIUM BEEF NO NITRITES ADDED"
+        },
+        {
+            "inferText": "WE CUT MEATS,"
+        },
+        {
+            "inferText": "Nutrition Facts"
+        },
+        {
+            "inferText": "NOT CORNERS Servings per Container 2.5"
+        },
+        {
+            "inferText": "Serving Size 1 OZ. (28g)"
+        },
+        {
+            "inferText": "Amount Per Serving"
+        },
+        {
+            "inferText": "Calories 90 Calories from Fat 20"
+        },
+        {
+            "inferText": "Daily Value*"
+        },
+        {
+            "inferText": "Total Fat 2.5g 3%"
+        },
+        {
+            "inferText": "PREMIUM MEATS"
+        },
+        {
+            "inferText": "Saturated Fat 1g 5%"
+        },
+        {
+            "inferText": "We exclusively use top round cuts Cholesterol 30mg 10%"
+        },
+        {
+            "inferText": "from the USA because we believe Sodium 340mg 15%"
+        },
+        {
+            "inferText": "that snacks should be just as Total Carbohydrate 6g 2%"
+        },
+        {
+            "inferText": "high-quality as dinners."
+        },
+        {
+            "inferText": "Dietary Fiber 0g 0%"
+        },
+        {
+            "inferText": "Sugars 6g"
+        },
+        {
+            "inferText": "Protein 10g"
+        },
+        {
+            "inferText": "CHEF-CRAFTED MARINADE Vitamin A 0% Vitamin 0%"
+        },
+        {
+            "inferText": "The best flavors from Calcium 0%"
+        },
+        {
+            "inferText": "come"
+        },
+        {
+            "inferText": "CHEF'S"
+        },
+        {
+            "inferText": "CUT"
+        },
+        {
+            "inferText": "REAL"
+        },
+        {
+            "inferText": "JERKY"
+        },
+        {
+            "inferText": "CO."
+        },
+        {
+            "inferText": "PREMIUM"
+        },
+        {
+            "inferText": "BEEF"
+        },
+        {
+            "inferText": "NO"
+        },
+        {
+            "inferText": "NITRITES"
+        },
+        {
+            "inferText": "ADDED"
+        },
+        {
+            "inferText": "WE"
+        },
+        {
+            "inferText": "CUT"
+        },
+        {
+            "inferText": "MEATS,"
+        },
+        {
+            "inferText": "Nutrition"
+        },
+        {
+            "inferText": "Facts"
+        },
+        {
+            "inferText": "NOT"
+        },
+        {
+            "inferText": "CORNERS"
+        },
+        {
+            "inferText": "Serving"
+        },
+        {
+            "inferText": "Size"
+        },
+        {
+            "inferText": "1"
+        },
+        {
+            "inferText": "OZ."
+        },
+        {
+            "inferText": "(28g)"
+        },
+        {
+            "inferText": "Servings"
+        },
+        {
+            "inferText": "per"
+        },
+        {
+            "inferText": "Container"
+        },
+        {
+            "inferText": "2.5"
+        },
+        {
+            "inferText": "Amount"
+        },
+        {
+            "inferText": "Per"
+        },
+        {
+            "inferText": "Serving"
+        },
+        {
+            "inferText": "Calories"
+        },
+        {
+            "inferText": "90"
+        },
+        {
+            "inferText": "Calories"
+        },
+        {
+            "inferText": "from"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "20"
+        },
+        {
+            "inferText": "Daily"
+        },
+        {
+            "inferText": "Value*"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "2.5g"
+        },
+        {
+            "inferText": "3%"
+        },
+        {
+            "inferText": "PREMIUM"
+        },
+        {
+            "inferText": "MEATS"
+        },
+        {
+            "inferText": "Saturated"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "1g"
+        },
+        {
+            "inferText": "5%"
+        },
+        {
+            "inferText": "Cholesterol"
+        },
+        {
+            "inferText": "30mg"
+        },
+        {
+            "inferText": "10%"
+        },
+        {
+            "inferText": "We"
+        },
+        {
+            "inferText": "exclusively"
+        },
+        {
+            "inferText": "use"
+        },
+        {
+            "inferText": "top"
+        },
+        {
+            "inferText": "round"
+        },
+        {
+            "inferText": "cuts"
+        },
+        {
+            "inferText": "from"
+        },
+        {
+            "inferText": "the"
+        },
+        {
+            "inferText": "USA"
+        },
+        {
+            "inferText": "because"
+        },
+        {
+            "inferText": "believe"
+        },
+        {
+            "inferText": "Sodium"
+        },
+        {
+            "inferText": "340mg"
+        },
+        {
+            "inferText": "15%"
+        },
+        {
+            "inferText": "we"
+        },
+        {
+            "inferText": "that"
+        },
+        {
+            "inferText": "snacks"
+        },
+        {
+            "inferText": "should"
+        },
+        {
+            "inferText": "be"
+        },
+        {
+            "inferText": "just"
+        },
+        {
+            "inferText": "as"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Carbohydrate"
+        },
+        {
+            "inferText": "6g"
+        },
+        {
+            "inferText": "2%"
+        },
+        {
+            "inferText": "high-quality"
+        },
+        {
+            "inferText": "as"
+        },
+        {
+            "inferText": "dinners."
+        },
+        {
+            "inferText": "Dietary"
+        },
+        {
+            "inferText": "Fiber"
+        },
+        {
+            "inferText": "0g"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "Sugars"
+        },
+        {
+            "inferText": "6g"
+        },
+        {
+            "inferText": "Protein"
+        },
+        {
+            "inferText": "10g"
+        },
+        {
+            "inferText": "CHEF-CRAFTED"
+        },
+        {
+            "inferText": "MARINADE"
+        },
+        {
+            "inferText": "Vitamin"
+        },
+        {
+            "inferText": "A"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "Vitamin"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "The"
+        },
+        {
+            "inferText": "best"
+        },
+        {
+            "inferText": "flavors"
+        },
+        {
+            "inferText": "Calcium"
+        },
+        {
+            "inferText": "come"
+        },
+        {
+            "inferText": "from"
+        },
+        {
+            "inferText": "0%"
+        }
+    ]
+}

@@ -1,0 +1,1200 @@
+{
+    "fields": [
+        {
+            "inferText": "OCK\nNutrition Facts\nApple, rw\nSening Sae 100o.Sa\nA nt\nCalories 55\nCalories from Fat1\nTotal Fat 0.3 g\nSaturated Fat 0g\nTrans Fat 0g\nCholesterol 0 mg\nSodium 0 mg\nCarbohydrate 159\nFiber 3g\nSugans 109\nProtein 02g\nak\niSto\n0%\nIS\nVitamin A\nVitamn C\nCacum\nIron\nock\ntork\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 2,
+                        "y": 22
+                    },
+                    {
+                        "x": 182,
+                        "y": 22
+                    },
+                    {
+                        "x": 182,
+                        "y": 251
+                    },
+                    {
+                        "x": 2,
+                        "y": 251
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "OCK",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 8,
+                        "y": 22
+                    },
+                    {
+                        "x": 24,
+                        "y": 22
+                    },
+                    {
+                        "x": 24,
+                        "y": 33
+                    },
+                    {
+                        "x": 8,
+                        "y": 33
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Nutrition",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 36,
+                        "y": 69
+                    },
+                    {
+                        "x": 94,
+                        "y": 63
+                    },
+                    {
+                        "x": 95,
+                        "y": 74
+                    },
+                    {
+                        "x": 37,
+                        "y": 80
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Facts",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 100,
+                        "y": 63
+                    },
+                    {
+                        "x": 136,
+                        "y": 59
+                    },
+                    {
+                        "x": 137,
+                        "y": 68
+                    },
+                    {
+                        "x": 101,
+                        "y": 72
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Apple,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 37,
+                        "y": 85
+                    },
+                    {
+                        "x": 56,
+                        "y": 83
+                    },
+                    {
+                        "x": 57,
+                        "y": 91
+                    },
+                    {
+                        "x": 38,
+                        "y": 93
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "rw",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 59,
+                        "y": 84
+                    },
+                    {
+                        "x": 70,
+                        "y": 83
+                    },
+                    {
+                        "x": 70,
+                        "y": 88
+                    },
+                    {
+                        "x": 59,
+                        "y": 89
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Sening",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 38,
+                        "y": 95
+                    },
+                    {
+                        "x": 56,
+                        "y": 93
+                    },
+                    {
+                        "x": 56,
+                        "y": 98
+                    },
+                    {
+                        "x": 39,
+                        "y": 100
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Sae",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 59,
+                        "y": 93
+                    },
+                    {
+                        "x": 69,
+                        "y": 92
+                    },
+                    {
+                        "x": 69,
+                        "y": 97
+                    },
+                    {
+                        "x": 60,
+                        "y": 98
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "100o.Sa",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 72,
+                        "y": 92
+                    },
+                    {
+                        "x": 99,
+                        "y": 89
+                    },
+                    {
+                        "x": 99,
+                        "y": 95
+                    },
+                    {
+                        "x": 73,
+                        "y": 98
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "A",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 43,
+                        "y": 104
+                    },
+                    {
+                        "x": 44,
+                        "y": 104
+                    },
+                    {
+                        "x": 44,
+                        "y": 109
+                    },
+                    {
+                        "x": 43,
+                        "y": 109
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "nt",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 57,
+                        "y": 103
+                    },
+                    {
+                        "x": 59,
+                        "y": 103
+                    },
+                    {
+                        "x": 59,
+                        "y": 108
+                    },
+                    {
+                        "x": 57,
+                        "y": 108
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Calories",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 42,
+                        "y": 110
+                    },
+                    {
+                        "x": 67,
+                        "y": 107
+                    },
+                    {
+                        "x": 68,
+                        "y": 116
+                    },
+                    {
+                        "x": 43,
+                        "y": 119
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "55",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 70,
+                        "y": 109
+                    },
+                    {
+                        "x": 78,
+                        "y": 108
+                    },
+                    {
+                        "x": 79,
+                        "y": 115
+                    },
+                    {
+                        "x": 71,
+                        "y": 116
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Calories",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 41,
+                        "y": 120
+                    },
+                    {
+                        "x": 66,
+                        "y": 117
+                    },
+                    {
+                        "x": 66,
+                        "y": 123
+                    },
+                    {
+                        "x": 42,
+                        "y": 126
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "from",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 69,
+                        "y": 117
+                    },
+                    {
+                        "x": 82,
+                        "y": 116
+                    },
+                    {
+                        "x": 83,
+                        "y": 122
+                    },
+                    {
+                        "x": 70,
+                        "y": 123
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Fat1",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 86,
+                        "y": 116
+                    },
+                    {
+                        "x": 99,
+                        "y": 115
+                    },
+                    {
+                        "x": 99,
+                        "y": 120
+                    },
+                    {
+                        "x": 87,
+                        "y": 121
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Total",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 42,
+                        "y": 127
+                    },
+                    {
+                        "x": 58,
+                        "y": 126
+                    },
+                    {
+                        "x": 59,
+                        "y": 133
+                    },
+                    {
+                        "x": 43,
+                        "y": 134
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Fat",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 61,
+                        "y": 127
+                    },
+                    {
+                        "x": 70,
+                        "y": 126
+                    },
+                    {
+                        "x": 70,
+                        "y": 131
+                    },
+                    {
+                        "x": 61,
+                        "y": 132
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "0.3",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 74,
+                        "y": 126
+                    },
+                    {
+                        "x": 82,
+                        "y": 125
+                    },
+                    {
+                        "x": 82,
+                        "y": 130
+                    },
+                    {
+                        "x": 74,
+                        "y": 131
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 85,
+                        "y": 126
+                    },
+                    {
+                        "x": 88,
+                        "y": 126
+                    },
+                    {
+                        "x": 88,
+                        "y": 131
+                    },
+                    {
+                        "x": 85,
+                        "y": 131
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Saturated",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 56,
+                        "y": 135
+                    },
+                    {
+                        "x": 85,
+                        "y": 132
+                    },
+                    {
+                        "x": 86,
+                        "y": 139
+                    },
+                    {
+                        "x": 57,
+                        "y": 142
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Fat",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 88,
+                        "y": 133
+                    },
+                    {
+                        "x": 97,
+                        "y": 132
+                    },
+                    {
+                        "x": 97,
+                        "y": 137
+                    },
+                    {
+                        "x": 88,
+                        "y": 138
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "0g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 100,
+                        "y": 132
+                    },
+                    {
+                        "x": 108,
+                        "y": 131
+                    },
+                    {
+                        "x": 109,
+                        "y": 138
+                    },
+                    {
+                        "x": 101,
+                        "y": 139
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Trans",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 57,
+                        "y": 145
+                    },
+                    {
+                        "x": 74,
+                        "y": 143
+                    },
+                    {
+                        "x": 74,
+                        "y": 149
+                    },
+                    {
+                        "x": 58,
+                        "y": 151
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Fat",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 77,
+                        "y": 143
+                    },
+                    {
+                        "x": 87,
+                        "y": 142
+                    },
+                    {
+                        "x": 88,
+                        "y": 149
+                    },
+                    {
+                        "x": 78,
+                        "y": 150
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "0g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 94,
+                        "y": 143
+                    },
+                    {
+                        "x": 99,
+                        "y": 143
+                    },
+                    {
+                        "x": 99,
+                        "y": 148
+                    },
+                    {
+                        "x": 94,
+                        "y": 148
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Cholesterol",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 45,
+                        "y": 155
+                    },
+                    {
+                        "x": 82,
+                        "y": 152
+                    },
+                    {
+                        "x": 82,
+                        "y": 157
+                    },
+                    {
+                        "x": 45,
+                        "y": 160
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "0",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 92,
+                        "y": 150
+                    },
+                    {
+                        "x": 94,
+                        "y": 150
+                    },
+                    {
+                        "x": 95,
+                        "y": 156
+                    },
+                    {
+                        "x": 93,
+                        "y": 156
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "mg",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 96,
+                        "y": 150
+                    },
+                    {
+                        "x": 100,
+                        "y": 150
+                    },
+                    {
+                        "x": 101,
+                        "y": 156
+                    },
+                    {
+                        "x": 97,
+                        "y": 156
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Sodium",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 46,
+                        "y": 164
+                    },
+                    {
+                        "x": 70,
+                        "y": 162
+                    },
+                    {
+                        "x": 70,
+                        "y": 167
+                    },
+                    {
+                        "x": 46,
+                        "y": 169
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "0",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 74,
+                        "y": 162
+                    },
+                    {
+                        "x": 76,
+                        "y": 162
+                    },
+                    {
+                        "x": 76,
+                        "y": 166
+                    },
+                    {
+                        "x": 74,
+                        "y": 166
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "mg",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 79,
+                        "y": 162
+                    },
+                    {
+                        "x": 88,
+                        "y": 161
+                    },
+                    {
+                        "x": 88,
+                        "y": 166
+                    },
+                    {
+                        "x": 79,
+                        "y": 167
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Carbohydrate",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 47,
+                        "y": 172
+                    },
+                    {
+                        "x": 90,
+                        "y": 168
+                    },
+                    {
+                        "x": 90,
+                        "y": 175
+                    },
+                    {
+                        "x": 48,
+                        "y": 179
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "159",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 95,
+                        "y": 167
+                    },
+                    {
+                        "x": 106,
+                        "y": 166
+                    },
+                    {
+                        "x": 107,
+                        "y": 173
+                    },
+                    {
+                        "x": 96,
+                        "y": 174
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Fiber",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 60,
+                        "y": 178
+                    },
+                    {
+                        "x": 76,
+                        "y": 176
+                    },
+                    {
+                        "x": 77,
+                        "y": 183
+                    },
+                    {
+                        "x": 61,
+                        "y": 185
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "3g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 78,
+                        "y": 177
+                    },
+                    {
+                        "x": 86,
+                        "y": 176
+                    },
+                    {
+                        "x": 87,
+                        "y": 183
+                    },
+                    {
+                        "x": 79,
+                        "y": 184
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Sugans",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 57,
+                        "y": 187
+                    },
+                    {
+                        "x": 83,
+                        "y": 185
+                    },
+                    {
+                        "x": 84,
+                        "y": 192
+                    },
+                    {
+                        "x": 58,
+                        "y": 194
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "109",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 86,
+                        "y": 185
+                    },
+                    {
+                        "x": 97,
+                        "y": 184
+                    },
+                    {
+                        "x": 98,
+                        "y": 191
+                    },
+                    {
+                        "x": 87,
+                        "y": 192
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Protein",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 51,
+                        "y": 196
+                    },
+                    {
+                        "x": 72,
+                        "y": 194
+                    },
+                    {
+                        "x": 73,
+                        "y": 202
+                    },
+                    {
+                        "x": 52,
+                        "y": 204
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "02g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 75,
+                        "y": 194
+                    },
+                    {
+                        "x": 91,
+                        "y": 193
+                    },
+                    {
+                        "x": 92,
+                        "y": 200
+                    },
+                    {
+                        "x": 76,
+                        "y": 202
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "ak",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 4,
+                        "y": 128
+                    },
+                    {
+                        "x": 21,
+                        "y": 128
+                    },
+                    {
+                        "x": 21,
+                        "y": 141
+                    },
+                    {
+                        "x": 4,
+                        "y": 141
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "iSto",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 162,
+                        "y": 129
+                    },
+                    {
+                        "x": 182,
+                        "y": 129
+                    },
+                    {
+                        "x": 182,
+                        "y": 143
+                    },
+                    {
+                        "x": 162,
+                        "y": 143
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "0%",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 133,
+                        "y": 154
+                    },
+                    {
+                        "x": 142,
+                        "y": 153
+                    },
+                    {
+                        "x": 142,
+                        "y": 157
+                    },
+                    {
+                        "x": 133,
+                        "y": 158
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "IS",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 22,
+                        "y": 182
+                    },
+                    {
+                        "x": 36,
+                        "y": 182
+                    },
+                    {
+                        "x": 36,
+                        "y": 195
+                    },
+                    {
+                        "x": 22,
+                        "y": 195
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Vitamin",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 51,
+                        "y": 207
+                    },
+                    {
+                        "x": 73,
+                        "y": 205
+                    },
+                    {
+                        "x": 73,
+                        "y": 210
+                    },
+                    {
+                        "x": 51,
+                        "y": 212
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "A",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 76,
+                        "y": 205
+                    },
+                    {
+                        "x": 79,
+                        "y": 205
+                    },
+                    {
+                        "x": 79,
+                        "y": 209
+                    },
+                    {
+                        "x": 76,
+                        "y": 209
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Vitamn",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 52,
+                        "y": 215
+                    },
+                    {
+                        "x": 73,
+                        "y": 213
+                    },
+                    {
+                        "x": 73,
+                        "y": 218
+                    },
+                    {
+                        "x": 52,
+                        "y": 220
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "C",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 76,
+                        "y": 213
+                    },
+                    {
+                        "x": 80,
+                        "y": 213
+                    },
+                    {
+                        "x": 80,
+                        "y": 218
+                    },
+                    {
+                        "x": 76,
+                        "y": 218
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Cacum",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 53,
+                        "y": 223
+                    },
+                    {
+                        "x": 76,
+                        "y": 221
+                    },
+                    {
+                        "x": 76,
+                        "y": 226
+                    },
+                    {
+                        "x": 53,
+                        "y": 228
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Iron",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 54,
+                        "y": 231
+                    },
+                    {
+                        "x": 64,
+                        "y": 230
+                    },
+                    {
+                        "x": 64,
+                        "y": 235
+                    },
+                    {
+                        "x": 55,
+                        "y": 236
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "ock",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 2,
+                        "y": 240
+                    },
+                    {
+                        "x": 21,
+                        "y": 240
+                    },
+                    {
+                        "x": 21,
+                        "y": 251
+                    },
+                    {
+                        "x": 2,
+                        "y": 251
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "tork",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 84,
+                        "y": 239
+                    },
+                    {
+                        "x": 113,
+                        "y": 239
+                    },
+                    {
+                        "x": 113,
+                        "y": 250
+                    },
+                    {
+                        "x": 84,
+                        "y": 250
+                    }
+                ]
+            }
+        }
+    ]
+}

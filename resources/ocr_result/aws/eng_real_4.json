@@ -1,0 +1,343 @@
+{
+    "fields": [
+        {
+            "inferText": "DRIVER'S CAMOLA AND/OR SOYBEAN Facts vitaming"
+        },
+        {
+            "inferText": "ING/OR PALARY VEGETABLE OILS, WATER MODIRED Nutrition MARKET"
+        },
+        {
+            "inferText": "POWDER, KERNIEL OILS. SALT WHEY Per 2 tsp. (10 g) Value"
+        },
+        {
+            "inferText": "LECTHER VEGETABLE POTASSIUM MONDGLYCERIDES. SOY Daily"
+        },
+        {
+            "inferText": "NATURAL ARTIFICIAL SORBATE. FLAVOUR, CITRIC CALCIUM ACID. Amount"
+        },
+        {
+            "inferText": "RISODIUM PALMITATE. Calories 60 11%"
+        },
+        {
+            "inferText": "WAINIENTS: U-CAROTENE, D3. Fat 7"
+        },
+        {
+            "inferText": "DE CANOLA ET/OU DE Saturated 2 g"
+        },
+        {
+            "inferText": "VEGETALES, HUILES PALME Trans 0.1 g"
+        },
+        {
+            "inferText": "Licmore VEGETAUX, LACTOSERUM 2.5 g"
+        },
+        {
+            "inferText": "1005 ETRIQUE, SOJA SORBATE POTASSIUM. Polyunsaturated"
+        },
+        {
+            "inferText": "DISODIQUE. NATUREL ET ARTIFICIEL Omega-6 2 g"
+        },
+        {
+            "inferText": "-CAROTENE. PALMITATE Omega-3 0.4g"
+        },
+        {
+            "inferText": "GARDER KEEP REFRIGERATED Monounsaturated 0%"
+        },
+        {
+            "inferText": "All Intraiserateur 3%"
+        },
+        {
+            "inferText": "4-882-7700 Cholesterol 0 mg"
+        },
+        {
+            "inferText": "Sodium 70 mg 0"
+        },
+        {
+            "inferText": "DRIVER'S"
+        },
+        {
+            "inferText": "ING/OR"
+        },
+        {
+            "inferText": "CAMOLA"
+        },
+        {
+            "inferText": "AND/OR"
+        },
+        {
+            "inferText": "VEGETABLE"
+        },
+        {
+            "inferText": "SOYBEAN"
+        },
+        {
+            "inferText": "OILS,"
+        },
+        {
+            "inferText": "Nutrition"
+        },
+        {
+            "inferText": "Facts"
+        },
+        {
+            "inferText": "PALARY"
+        },
+        {
+            "inferText": "WATER"
+        },
+        {
+            "inferText": "MODIRED"
+        },
+        {
+            "inferText": "vitaming"
+        },
+        {
+            "inferText": "KERNIEL"
+        },
+        {
+            "inferText": "POWDER,"
+        },
+        {
+            "inferText": "OILS."
+        },
+        {
+            "inferText": "VEGETABLE"
+        },
+        {
+            "inferText": "SALT WHEY"
+        },
+        {
+            "inferText": "Per"
+        },
+        {
+            "inferText": "LECTHER"
+        },
+        {
+            "inferText": "MONDGLYCERIDES."
+        },
+        {
+            "inferText": "2"
+        },
+        {
+            "inferText": "tsp."
+        },
+        {
+            "inferText": "(10"
+        },
+        {
+            "inferText": "g)"
+        },
+        {
+            "inferText": "POTASSIUM"
+        },
+        {
+            "inferText": "SOY"
+        },
+        {
+            "inferText": "MARKET"
+        },
+        {
+            "inferText": "NATURAL"
+        },
+        {
+            "inferText": "SORBATE."
+        },
+        {
+            "inferText": "RISODIUM"
+        },
+        {
+            "inferText": "ARTIFICIAL"
+        },
+        {
+            "inferText": "CITRIC"
+        },
+        {
+            "inferText": "Daily"
+        },
+        {
+            "inferText": "Value"
+        },
+        {
+            "inferText": "FLAVOUR,"
+        },
+        {
+            "inferText": "ACID."
+        },
+        {
+            "inferText": "Amount"
+        },
+        {
+            "inferText": "CALCIUM"
+        },
+        {
+            "inferText": "U-CAROTENE,"
+        },
+        {
+            "inferText": "PALMITATE."
+        },
+        {
+            "inferText": "Calories"
+        },
+        {
+            "inferText": "60"
+        },
+        {
+            "inferText": "WAINIENTS:"
+        },
+        {
+            "inferText": "D3."
+        },
+        {
+            "inferText": "11%"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "DE"
+        },
+        {
+            "inferText": "7"
+        },
+        {
+            "inferText": "VEGETALES,"
+        },
+        {
+            "inferText": "CANOLA"
+        },
+        {
+            "inferText": "ET/OU DE"
+        },
+        {
+            "inferText": "HUILES"
+        },
+        {
+            "inferText": "PALME"
+        },
+        {
+            "inferText": "Saturated"
+        },
+        {
+            "inferText": "2"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "Licmore"
+        },
+        {
+            "inferText": "LACTOSERUM"
+        },
+        {
+            "inferText": "Trans"
+        },
+        {
+            "inferText": "0.1"
+        },
+        {
+            "inferText": "VEGETAUX,"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "1005"
+        },
+        {
+            "inferText": "SOJA"
+        },
+        {
+            "inferText": "ETRIQUE,"
+        },
+        {
+            "inferText": "SORBATE"
+        },
+        {
+            "inferText": "POTASSIUM."
+        },
+        {
+            "inferText": "Polyunsaturated"
+        },
+        {
+            "inferText": "2.5 g"
+        },
+        {
+            "inferText": "NATUREL"
+        },
+        {
+            "inferText": "DISODIQUE."
+        },
+        {
+            "inferText": "ET"
+        },
+        {
+            "inferText": "ARTIFICIEL"
+        },
+        {
+            "inferText": "-CAROTENE."
+        },
+        {
+            "inferText": "PALMITATE"
+        },
+        {
+            "inferText": "Omega-6"
+        },
+        {
+            "inferText": "2 g"
+        },
+        {
+            "inferText": "KEEP"
+        },
+        {
+            "inferText": "Omega-3"
+        },
+        {
+            "inferText": "0.4g"
+        },
+        {
+            "inferText": "GARDER"
+        },
+        {
+            "inferText": "REFRIGERATED"
+        },
+        {
+            "inferText": "All"
+        },
+        {
+            "inferText": "Intraiserateur"
+        },
+        {
+            "inferText": "Monounsaturated"
+        },
+        {
+            "inferText": "4-882-7700"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "Cholesterol"
+        },
+        {
+            "inferText": "0"
+        },
+        {
+            "inferText": "mg"
+        },
+        {
+            "inferText": "3%"
+        },
+        {
+            "inferText": "Sodium"
+        },
+        {
+            "inferText": "70"
+        },
+        {
+            "inferText": "mg"
+        },
+        {
+            "inferText": "0"
+        }
+    ]
+}

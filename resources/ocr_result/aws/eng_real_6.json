@@ -1,0 +1,397 @@
+{
+    "fields": [
+        {
+            "inferText": "NON CARBONATED"
+        },
+        {
+            "inferText": "Nutrition Facts"
+        },
+        {
+            "inferText": "Serving Size 16.9 fl. oz. (500mL)"
+        },
+        {
+            "inferText": "Servings Per Container 1"
+        },
+        {
+            "inferText": "Amount Per Serving %Daily"
+        },
+        {
+            "inferText": "Calories 100"
+        },
+        {
+            "inferText": "Total Fat 0g"
+        },
+        {
+            "inferText": "Sodium 105mg 4%"
+        },
+        {
+            "inferText": "Potassium 85mg 2%"
+        },
+        {
+            "inferText": "TM Total Carb 24g 8%"
+        },
+        {
+            "inferText": "Sugars 23g"
+        },
+        {
+            "inferText": "Protein 0g"
+        },
+        {
+            "inferText": "Niacin (Vit. B3) 100%"
+        },
+        {
+            "inferText": "100%"
+        },
+        {
+            "inferText": "Vitamin"
+        },
+        {
+            "inferText": "B6"
+        },
+        {
+            "inferText": "Not a significant source calories"
+        },
+        {
+            "inferText": "saturated fat. trans cholesterol."
+        },
+        {
+            "inferText": "fiber. vitamin A. vitamin calcium"
+        },
+        {
+            "inferText": "*Percent Daily Values"
+        },
+        {
+            "inferText": "INGREDIENTS: FILTERED WATER. . SUGAR. GLUCOSE"
+        },
+        {
+            "inferText": "TAURINE. CITRIC ACID, SODIUM"
+        },
+        {
+            "inferText": "POTASSIUM SORBATE (PRESERVATIVE)."
+        },
+        {
+            "inferText": "ARABIC. SODIUM BENZOATE (PRESERVATIVE)."
+        },
+        {
+            "inferText": "CAFFEINE MONOPOTASSIUM PHOSPHATE."
+        },
+        {
+            "inferText": "NATURAL FLAVORS, GUM. SUCRALOSE."
+        },
+        {
+            "inferText": "NIACINAMIDE (VIT. B3). INOSITOL,"
+        },
+        {
+            "inferText": "YELLOW #5."
+        },
+        {
+            "inferText": "RO HYDROCHLORIDE (VIT. B6)"
+        },
+        {
+            "inferText": "MANUFACTURED FOR MONSTER ENERGY Y COMPANY"
+        },
+        {
+            "inferText": "1 MONSTER WAY."
+        },
+        {
+            "inferText": "NON"
+        },
+        {
+            "inferText": "CARBONATED"
+        },
+        {
+            "inferText": "Nutrition"
+        },
+        {
+            "inferText": "Facts"
+        },
+        {
+            "inferText": "Serving"
+        },
+        {
+            "inferText": "Size"
+        },
+        {
+            "inferText": "16.9 fl."
+        },
+        {
+            "inferText": "oz."
+        },
+        {
+            "inferText": "(500mL)"
+        },
+        {
+            "inferText": "Servings"
+        },
+        {
+            "inferText": "Per"
+        },
+        {
+            "inferText": "Container 1"
+        },
+        {
+            "inferText": "Amount"
+        },
+        {
+            "inferText": "Per"
+        },
+        {
+            "inferText": "Serving"
+        },
+        {
+            "inferText": "%Daily"
+        },
+        {
+            "inferText": "Calories"
+        },
+        {
+            "inferText": "100"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "0g"
+        },
+        {
+            "inferText": "Sodium"
+        },
+        {
+            "inferText": "105mg"
+        },
+        {
+            "inferText": "4%"
+        },
+        {
+            "inferText": "Potassium"
+        },
+        {
+            "inferText": "85mg"
+        },
+        {
+            "inferText": "2%"
+        },
+        {
+            "inferText": "TM"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Carb"
+        },
+        {
+            "inferText": "24g"
+        },
+        {
+            "inferText": "8%"
+        },
+        {
+            "inferText": "Sugars"
+        },
+        {
+            "inferText": "23g"
+        },
+        {
+            "inferText": "Protein"
+        },
+        {
+            "inferText": "0g"
+        },
+        {
+            "inferText": "Niacin"
+        },
+        {
+            "inferText": "(Vit."
+        },
+        {
+            "inferText": "B3)"
+        },
+        {
+            "inferText": "100%"
+        },
+        {
+            "inferText": "Vitamin"
+        },
+        {
+            "inferText": "B6"
+        },
+        {
+            "inferText": "100%"
+        },
+        {
+            "inferText": "Not"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "significant"
+        },
+        {
+            "inferText": "source"
+        },
+        {
+            "inferText": "calories"
+        },
+        {
+            "inferText": "saturated"
+        },
+        {
+            "inferText": "fat."
+        },
+        {
+            "inferText": "trans"
+        },
+        {
+            "inferText": "cholesterol."
+        },
+        {
+            "inferText": "fiber."
+        },
+        {
+            "inferText": "vitamin A."
+        },
+        {
+            "inferText": "vitamin"
+        },
+        {
+            "inferText": "calcium"
+        },
+        {
+            "inferText": "*Percent"
+        },
+        {
+            "inferText": "Daily"
+        },
+        {
+            "inferText": "Values"
+        },
+        {
+            "inferText": "INGREDIENTS:"
+        },
+        {
+            "inferText": "FILTERED"
+        },
+        {
+            "inferText": "WATER."
+        },
+        {
+            "inferText": ". SUGAR."
+        },
+        {
+            "inferText": "GLUCOSE"
+        },
+        {
+            "inferText": "TAURINE."
+        },
+        {
+            "inferText": "CITRIC"
+        },
+        {
+            "inferText": "ACID,"
+        },
+        {
+            "inferText": "SODIUM"
+        },
+        {
+            "inferText": "POTASSIUM"
+        },
+        {
+            "inferText": "SORBATE"
+        },
+        {
+            "inferText": "(PRESERVATIVE)."
+        },
+        {
+            "inferText": "ARABIC."
+        },
+        {
+            "inferText": "SODIUM"
+        },
+        {
+            "inferText": "BENZOATE"
+        },
+        {
+            "inferText": "(PRESERVATIVE)."
+        },
+        {
+            "inferText": "CAFFEINE"
+        },
+        {
+            "inferText": "MONOPOTASSIUM"
+        },
+        {
+            "inferText": "PHOSPHATE."
+        },
+        {
+            "inferText": "NATURAL"
+        },
+        {
+            "inferText": "FLAVORS,"
+        },
+        {
+            "inferText": "GUM."
+        },
+        {
+            "inferText": "SUCRALOSE."
+        },
+        {
+            "inferText": "NIACINAMIDE"
+        },
+        {
+            "inferText": "(VIT."
+        },
+        {
+            "inferText": "B3)."
+        },
+        {
+            "inferText": "INOSITOL,"
+        },
+        {
+            "inferText": "RO"
+        },
+        {
+            "inferText": "HYDROCHLORIDE"
+        },
+        {
+            "inferText": "(VIT."
+        },
+        {
+            "inferText": "B6)"
+        },
+        {
+            "inferText": "YELLOW"
+        },
+        {
+            "inferText": "#5."
+        },
+        {
+            "inferText": "MANUFACTURED"
+        },
+        {
+            "inferText": "FOR"
+        },
+        {
+            "inferText": "MONSTER"
+        },
+        {
+            "inferText": "ENERGY"
+        },
+        {
+            "inferText": "Y COMPANY"
+        },
+        {
+            "inferText": "1"
+        },
+        {
+            "inferText": "MONSTER"
+        },
+        {
+            "inferText": "WAY."
+        }
+    ]
+}

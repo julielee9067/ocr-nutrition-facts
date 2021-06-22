@@ -1,0 +1,4374 @@
+{
+    "fields": [
+        {
+            "inferText": "hole grain per serving.\nAt least 48g recommended daily.\nNutrition Facts\nServing Size 1 bar (35g)\nServings Per Container 6\nRE ALE\nCalmeal\nAmount Per Serving\nTM\nCalories 160 Calories from Fat 60\nTotal Fat 7g\n% Daily Value*\n11%\nSaturated Fat 2g\nTrans Fat 0g\nCholesterol 15mg\nSodium 150mg\nTotal Carbohydrate 21g 7%\nDietary Fiber 2g\nSugars 9g\nProtein 3g\n10%\n5%\n6%\nSQUARES\n9%\nIron\n4%\nNot a significant source of vitarmin A, vitamin C and calcium.\nPercent Daily Values are based on a 2,000 calorie diet.\nIngredients: Whole Grain Oats, Whole\nWheat Flour, Peanut Butter Flavored\nChips (sugar, palm kernel and palm oil,\npartially defatted peanut flour, nonfat mik,\nwhey, peanut butter (peanuts), salt, soy\nlecithin), Sugar, Canola Oil, Tapioca\nSyrup, Peanut Butter (peanuts, salt),\nPartially Defatted Peanut Flour, Peanut\nButter Flavored Coating (sugar, palm\nkernel and palm oils, partially defatted\npeanut flour, peanuts, nonfat milk, whey, salt,\nsoy lecithin), Vegetable Glycerin, Honey,\nChicory Root Extract, Water, Egg Yolk,\nMolasses, Baking Soda, Salt, Egg White,\nPeanut Oil, Corn Syrup, Natural Flavor.\nCONTAINS WHEAT, PEANUT, EGG, MILK\nAND SOY INGREDIENTS.\nINC, MINNEAPOLIS, MN 55440 USA\nPeamil Rutter\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 835,
+                        "y": -6
+                    },
+                    {
+                        "x": 2078,
+                        "y": -6
+                    },
+                    {
+                        "x": 2078,
+                        "y": 2168
+                    },
+                    {
+                        "x": 835,
+                        "y": 2168
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "hole",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1718,
+                        "y": -6
+                    },
+                    {
+                        "x": 1778,
+                        "y": 6
+                    },
+                    {
+                        "x": 1771,
+                        "y": 40
+                    },
+                    {
+                        "x": 1711,
+                        "y": 28
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "grain",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1789,
+                        "y": 8
+                    },
+                    {
+                        "x": 1867,
+                        "y": 24
+                    },
+                    {
+                        "x": 1859,
+                        "y": 67
+                    },
+                    {
+                        "x": 1780,
+                        "y": 51
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "per",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1877,
+                        "y": 32
+                    },
+                    {
+                        "x": 1924,
+                        "y": 42
+                    },
+                    {
+                        "x": 1917,
+                        "y": 77
+                    },
+                    {
+                        "x": 1870,
+                        "y": 67
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "serving.",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1937,
+                        "y": 38
+                    },
+                    {
+                        "x": 2052,
+                        "y": 61
+                    },
+                    {
+                        "x": 2042,
+                        "y": 108
+                    },
+                    {
+                        "x": 1927,
+                        "y": 85
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "At",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1561,
+                        "y": 15
+                    },
+                    {
+                        "x": 1596,
+                        "y": 22
+                    },
+                    {
+                        "x": 1589,
+                        "y": 60
+                    },
+                    {
+                        "x": 1554,
+                        "y": 53
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "least",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1606,
+                        "y": 21
+                    },
+                    {
+                        "x": 1691,
+                        "y": 37
+                    },
+                    {
+                        "x": 1684,
+                        "y": 77
+                    },
+                    {
+                        "x": 1598,
+                        "y": 60
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "48g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1703,
+                        "y": 41
+                    },
+                    {
+                        "x": 1766,
+                        "y": 53
+                    },
+                    {
+                        "x": 1757,
+                        "y": 97
+                    },
+                    {
+                        "x": 1695,
+                        "y": 85
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "recommended",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1776,
+                        "y": 55
+                    },
+                    {
+                        "x": 1997,
+                        "y": 97
+                    },
+                    {
+                        "x": 1990,
+                        "y": 135
+                    },
+                    {
+                        "x": 1769,
+                        "y": 92
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "daily.",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 2008,
+                        "y": 96
+                    },
+                    {
+                        "x": 2078,
+                        "y": 109
+                    },
+                    {
+                        "x": 2068,
+                        "y": 158
+                    },
+                    {
+                        "x": 1999,
+                        "y": 144
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Nutrition",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1551,
+                        "y": 102
+                    },
+                    {
+                        "x": 1869,
+                        "y": 156
+                    },
+                    {
+                        "x": 1859,
+                        "y": 220
+                    },
+                    {
+                        "x": 1540,
+                        "y": 166
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Facts",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1901,
+                        "y": 153
+                    },
+                    {
+                        "x": 2074,
+                        "y": 182
+                    },
+                    {
+                        "x": 2062,
+                        "y": 248
+                    },
+                    {
+                        "x": 1890,
+                        "y": 219
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Serving",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1561,
+                        "y": 180
+                    },
+                    {
+                        "x": 1702,
+                        "y": 200
+                    },
+                    {
+                        "x": 1694,
+                        "y": 253
+                    },
+                    {
+                        "x": 1553,
+                        "y": 232
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Size",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1715,
+                        "y": 202
+                    },
+                    {
+                        "x": 1788,
+                        "y": 213
+                    },
+                    {
+                        "x": 1781,
+                        "y": 265
+                    },
+                    {
+                        "x": 1707,
+                        "y": 254
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "1",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1800,
+                        "y": 217
+                    },
+                    {
+                        "x": 1813,
+                        "y": 219
+                    },
+                    {
+                        "x": 1808,
+                        "y": 254
+                    },
+                    {
+                        "x": 1795,
+                        "y": 253
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "bar",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1818,
+                        "y": 219
+                    },
+                    {
+                        "x": 1882,
+                        "y": 228
+                    },
+                    {
+                        "x": 1875,
+                        "y": 279
+                    },
+                    {
+                        "x": 1811,
+                        "y": 269
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "(35g)",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1897,
+                        "y": 232
+                    },
+                    {
+                        "x": 1973,
+                        "y": 243
+                    },
+                    {
+                        "x": 1966,
+                        "y": 293
+                    },
+                    {
+                        "x": 1890,
+                        "y": 281
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Servings",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1550,
+                        "y": 230
+                    },
+                    {
+                        "x": 1722,
+                        "y": 251
+                    },
+                    {
+                        "x": 1715,
+                        "y": 306
+                    },
+                    {
+                        "x": 1543,
+                        "y": 285
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Per",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1734,
+                        "y": 257
+                    },
+                    {
+                        "x": 1793,
+                        "y": 264
+                    },
+                    {
+                        "x": 1788,
+                        "y": 303
+                    },
+                    {
+                        "x": 1729,
+                        "y": 296
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Container",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1806,
+                        "y": 261
+                    },
+                    {
+                        "x": 1966,
+                        "y": 281
+                    },
+                    {
+                        "x": 1960,
+                        "y": 326
+                    },
+                    {
+                        "x": 1800,
+                        "y": 307
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "6",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1976,
+                        "y": 295
+                    },
+                    {
+                        "x": 1995,
+                        "y": 297
+                    },
+                    {
+                        "x": 1991,
+                        "y": 332
+                    },
+                    {
+                        "x": 1972,
+                        "y": 330
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "RE",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 835,
+                        "y": 378
+                    },
+                    {
+                        "x": 1047,
+                        "y": 292
+                    },
+                    {
+                        "x": 1132,
+                        "y": 503
+                    },
+                    {
+                        "x": 920,
+                        "y": 588
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "ALE",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1049,
+                        "y": 291
+                    },
+                    {
+                        "x": 1258,
+                        "y": 207
+                    },
+                    {
+                        "x": 1343,
+                        "y": 418
+                    },
+                    {
+                        "x": 1134,
+                        "y": 502
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Calmeal",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 888,
+                        "y": 664
+                    },
+                    {
+                        "x": 1271,
+                        "y": 659
+                    },
+                    {
+                        "x": 1274,
+                        "y": 898
+                    },
+                    {
+                        "x": 891,
+                        "y": 903
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Amount",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1550,
+                        "y": 335
+                    },
+                    {
+                        "x": 1661,
+                        "y": 349
+                    },
+                    {
+                        "x": 1656,
+                        "y": 390
+                    },
+                    {
+                        "x": 1545,
+                        "y": 376
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Per",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1664,
+                        "y": 350
+                    },
+                    {
+                        "x": 1709,
+                        "y": 356
+                    },
+                    {
+                        "x": 1703,
+                        "y": 396
+                    },
+                    {
+                        "x": 1659,
+                        "y": 391
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Serving",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1716,
+                        "y": 360
+                    },
+                    {
+                        "x": 1806,
+                        "y": 372
+                    },
+                    {
+                        "x": 1802,
+                        "y": 406
+                    },
+                    {
+                        "x": 1712,
+                        "y": 395
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "TM",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1329,
+                        "y": 406
+                    },
+                    {
+                        "x": 1355,
+                        "y": 402
+                    },
+                    {
+                        "x": 1358,
+                        "y": 427
+                    },
+                    {
+                        "x": 1333,
+                        "y": 431
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Calories",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1560,
+                        "y": 396
+                    },
+                    {
+                        "x": 1698,
+                        "y": 410
+                    },
+                    {
+                        "x": 1694,
+                        "y": 450
+                    },
+                    {
+                        "x": 1556,
+                        "y": 436
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "160",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1710,
+                        "y": 412
+                    },
+                    {
+                        "x": 1759,
+                        "y": 417
+                    },
+                    {
+                        "x": 1755,
+                        "y": 455
+                    },
+                    {
+                        "x": 1706,
+                        "y": 450
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Calories",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1808,
+                        "y": 421
+                    },
+                    {
+                        "x": 1912,
+                        "y": 432
+                    },
+                    {
+                        "x": 1908,
+                        "y": 472
+                    },
+                    {
+                        "x": 1804,
+                        "y": 461
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "from",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1921,
+                        "y": 435
+                    },
+                    {
+                        "x": 1977,
+                        "y": 441
+                    },
+                    {
+                        "x": 1973,
+                        "y": 477
+                    },
+                    {
+                        "x": 1917,
+                        "y": 471
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Fat",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1986,
+                        "y": 442
+                    },
+                    {
+                        "x": 2025,
+                        "y": 446
+                    },
+                    {
+                        "x": 2021,
+                        "y": 482
+                    },
+                    {
+                        "x": 1982,
+                        "y": 478
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "60",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 2027,
+                        "y": 441
+                    },
+                    {
+                        "x": 2064,
+                        "y": 445
+                    },
+                    {
+                        "x": 2059,
+                        "y": 493
+                    },
+                    {
+                        "x": 2022,
+                        "y": 489
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Total",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1555,
+                        "y": 533
+                    },
+                    {
+                        "x": 1650,
+                        "y": 541
+                    },
+                    {
+                        "x": 1646,
+                        "y": 581
+                    },
+                    {
+                        "x": 1551,
+                        "y": 573
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Fat",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1663,
+                        "y": 542
+                    },
+                    {
+                        "x": 1722,
+                        "y": 547
+                    },
+                    {
+                        "x": 1719,
+                        "y": 584
+                    },
+                    {
+                        "x": 1660,
+                        "y": 579
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "7g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1735,
+                        "y": 548
+                    },
+                    {
+                        "x": 1772,
+                        "y": 551
+                    },
+                    {
+                        "x": 1768,
+                        "y": 594
+                    },
+                    {
+                        "x": 1731,
+                        "y": 591
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "%",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1883,
+                        "y": 509
+                    },
+                    {
+                        "x": 1905,
+                        "y": 510
+                    },
+                    {
+                        "x": 1903,
+                        "y": 538
+                    },
+                    {
+                        "x": 1881,
+                        "y": 537
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Daily",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1916,
+                        "y": 511
+                    },
+                    {
+                        "x": 1976,
+                        "y": 515
+                    },
+                    {
+                        "x": 1974,
+                        "y": 550
+                    },
+                    {
+                        "x": 1914,
+                        "y": 546
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Value*",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1982,
+                        "y": 517
+                    },
+                    {
+                        "x": 2058,
+                        "y": 522
+                    },
+                    {
+                        "x": 2056,
+                        "y": 551
+                    },
+                    {
+                        "x": 1980,
+                        "y": 546
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "11%",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1990,
+                        "y": 568
+                    },
+                    {
+                        "x": 2057,
+                        "y": 570
+                    },
+                    {
+                        "x": 2056,
+                        "y": 607
+                    },
+                    {
+                        "x": 1989,
+                        "y": 605
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Saturated",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1581,
+                        "y": 598
+                    },
+                    {
+                        "x": 1736,
+                        "y": 610
+                    },
+                    {
+                        "x": 1732,
+                        "y": 652
+                    },
+                    {
+                        "x": 1578,
+                        "y": 640
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Fat",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1750,
+                        "y": 610
+                    },
+                    {
+                        "x": 1797,
+                        "y": 614
+                    },
+                    {
+                        "x": 1794,
+                        "y": 653
+                    },
+                    {
+                        "x": 1747,
+                        "y": 650
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "2g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1809,
+                        "y": 616
+                    },
+                    {
+                        "x": 1844,
+                        "y": 619
+                    },
+                    {
+                        "x": 1840,
+                        "y": 665
+                    },
+                    {
+                        "x": 1806,
+                        "y": 662
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Trans",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1577,
+                        "y": 665
+                    },
+                    {
+                        "x": 1666,
+                        "y": 671
+                    },
+                    {
+                        "x": 1663,
+                        "y": 711
+                    },
+                    {
+                        "x": 1574,
+                        "y": 705
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Fat",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1678,
+                        "y": 671
+                    },
+                    {
+                        "x": 1727,
+                        "y": 675
+                    },
+                    {
+                        "x": 1724,
+                        "y": 712
+                    },
+                    {
+                        "x": 1675,
+                        "y": 709
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "0g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1738,
+                        "y": 675
+                    },
+                    {
+                        "x": 1777,
+                        "y": 678
+                    },
+                    {
+                        "x": 1774,
+                        "y": 724
+                    },
+                    {
+                        "x": 1735,
+                        "y": 721
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Cholesterol",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1554,
+                        "y": 727
+                    },
+                    {
+                        "x": 1767,
+                        "y": 737
+                    },
+                    {
+                        "x": 1765,
+                        "y": 779
+                    },
+                    {
+                        "x": 1552,
+                        "y": 769
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "15mg",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1784,
+                        "y": 739
+                    },
+                    {
+                        "x": 1864,
+                        "y": 743
+                    },
+                    {
+                        "x": 1862,
+                        "y": 788
+                    },
+                    {
+                        "x": 1782,
+                        "y": 784
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Sodium",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1552,
+                        "y": 792
+                    },
+                    {
+                        "x": 1692,
+                        "y": 799
+                    },
+                    {
+                        "x": 1690,
+                        "y": 839
+                    },
+                    {
+                        "x": 1550,
+                        "y": 832
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "150mg",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1709,
+                        "y": 797
+                    },
+                    {
+                        "x": 1819,
+                        "y": 802
+                    },
+                    {
+                        "x": 1816,
+                        "y": 852
+                    },
+                    {
+                        "x": 1707,
+                        "y": 847
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Total",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1550,
+                        "y": 858
+                    },
+                    {
+                        "x": 1641,
+                        "y": 860
+                    },
+                    {
+                        "x": 1640,
+                        "y": 897
+                    },
+                    {
+                        "x": 1549,
+                        "y": 895
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Carbohydrate",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1656,
+                        "y": 858
+                    },
+                    {
+                        "x": 1896,
+                        "y": 862
+                    },
+                    {
+                        "x": 1895,
+                        "y": 908
+                    },
+                    {
+                        "x": 1655,
+                        "y": 904
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "21g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1900,
+                        "y": 859
+                    },
+                    {
+                        "x": 1958,
+                        "y": 860
+                    },
+                    {
+                        "x": 1957,
+                        "y": 913
+                    },
+                    {
+                        "x": 1899,
+                        "y": 912
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "7%",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1997,
+                        "y": 861
+                    },
+                    {
+                        "x": 2046,
+                        "y": 862
+                    },
+                    {
+                        "x": 2045,
+                        "y": 915
+                    },
+                    {
+                        "x": 1996,
+                        "y": 914
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Dietary",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1570,
+                        "y": 923
+                    },
+                    {
+                        "x": 1685,
+                        "y": 920
+                    },
+                    {
+                        "x": 1686,
+                        "y": 972
+                    },
+                    {
+                        "x": 1571,
+                        "y": 975
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Fiber",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1698,
+                        "y": 923
+                    },
+                    {
+                        "x": 1775,
+                        "y": 921
+                    },
+                    {
+                        "x": 1776,
+                        "y": 960
+                    },
+                    {
+                        "x": 1699,
+                        "y": 962
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "2g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1784,
+                        "y": 925
+                    },
+                    {
+                        "x": 1821,
+                        "y": 924
+                    },
+                    {
+                        "x": 1822,
+                        "y": 968
+                    },
+                    {
+                        "x": 1785,
+                        "y": 969
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Sugars",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1574,
+                        "y": 981
+                    },
+                    {
+                        "x": 1681,
+                        "y": 980
+                    },
+                    {
+                        "x": 1682,
+                        "y": 1040
+                    },
+                    {
+                        "x": 1575,
+                        "y": 1041
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "9g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1684,
+                        "y": 980
+                    },
+                    {
+                        "x": 1731,
+                        "y": 979
+                    },
+                    {
+                        "x": 1732,
+                        "y": 1039
+                    },
+                    {
+                        "x": 1685,
+                        "y": 1040
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Protein",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1547,
+                        "y": 1045
+                    },
+                    {
+                        "x": 1681,
+                        "y": 1047
+                    },
+                    {
+                        "x": 1680,
+                        "y": 1088
+                    },
+                    {
+                        "x": 1546,
+                        "y": 1086
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "3g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1696,
+                        "y": 1046
+                    },
+                    {
+                        "x": 1733,
+                        "y": 1047
+                    },
+                    {
+                        "x": 1732,
+                        "y": 1092
+                    },
+                    {
+                        "x": 1695,
+                        "y": 1091
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "10%",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1990,
+                        "y": 628
+                    },
+                    {
+                        "x": 2056,
+                        "y": 630
+                    },
+                    {
+                        "x": 2055,
+                        "y": 666
+                    },
+                    {
+                        "x": 1989,
+                        "y": 664
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "5%",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 2004,
+                        "y": 748
+                    },
+                    {
+                        "x": 2051,
+                        "y": 748
+                    },
+                    {
+                        "x": 2051,
+                        "y": 783
+                    },
+                    {
+                        "x": 2004,
+                        "y": 783
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "6%",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 2004,
+                        "y": 806
+                    },
+                    {
+                        "x": 2051,
+                        "y": 807
+                    },
+                    {
+                        "x": 2051,
+                        "y": 843
+                    },
+                    {
+                        "x": 2004,
+                        "y": 842
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "SQUARES",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1008,
+                        "y": 915
+                    },
+                    {
+                        "x": 1151,
+                        "y": 921
+                    },
+                    {
+                        "x": 1148,
+                        "y": 988
+                    },
+                    {
+                        "x": 1005,
+                        "y": 982
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "9%",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 2000,
+                        "y": 924
+                    },
+                    {
+                        "x": 2047,
+                        "y": 924
+                    },
+                    {
+                        "x": 2047,
+                        "y": 959
+                    },
+                    {
+                        "x": 2000,
+                        "y": 959
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Iron",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1546,
+                        "y": 1154
+                    },
+                    {
+                        "x": 1619,
+                        "y": 1152
+                    },
+                    {
+                        "x": 1620,
+                        "y": 1189
+                    },
+                    {
+                        "x": 1547,
+                        "y": 1191
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "4%",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1984,
+                        "y": 1138
+                    },
+                    {
+                        "x": 2039,
+                        "y": 1137
+                    },
+                    {
+                        "x": 2039,
+                        "y": 1172
+                    },
+                    {
+                        "x": 1984,
+                        "y": 1173
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Not",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1541,
+                        "y": 1213
+                    },
+                    {
+                        "x": 1574,
+                        "y": 1211
+                    },
+                    {
+                        "x": 1576,
+                        "y": 1248
+                    },
+                    {
+                        "x": 1543,
+                        "y": 1250
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "a",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1580,
+                        "y": 1218
+                    },
+                    {
+                        "x": 1590,
+                        "y": 1217
+                    },
+                    {
+                        "x": 1591,
+                        "y": 1238
+                    },
+                    {
+                        "x": 1581,
+                        "y": 1239
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "significant",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1597,
+                        "y": 1211
+                    },
+                    {
+                        "x": 1686,
+                        "y": 1206
+                    },
+                    {
+                        "x": 1688,
+                        "y": 1241
+                    },
+                    {
+                        "x": 1599,
+                        "y": 1246
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "source",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1691,
+                        "y": 1213
+                    },
+                    {
+                        "x": 1748,
+                        "y": 1210
+                    },
+                    {
+                        "x": 1749,
+                        "y": 1231
+                    },
+                    {
+                        "x": 1692,
+                        "y": 1234
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "of",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1754,
+                        "y": 1205
+                    },
+                    {
+                        "x": 1771,
+                        "y": 1204
+                    },
+                    {
+                        "x": 1772,
+                        "y": 1230
+                    },
+                    {
+                        "x": 1756,
+                        "y": 1231
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "vitarmin",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1776,
+                        "y": 1202
+                    },
+                    {
+                        "x": 1832,
+                        "y": 1199
+                    },
+                    {
+                        "x": 1833,
+                        "y": 1226
+                    },
+                    {
+                        "x": 1778,
+                        "y": 1229
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "A,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1838,
+                        "y": 1200
+                    },
+                    {
+                        "x": 1853,
+                        "y": 1199
+                    },
+                    {
+                        "x": 1855,
+                        "y": 1230
+                    },
+                    {
+                        "x": 1840,
+                        "y": 1231
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "vitamin",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1861,
+                        "y": 1199
+                    },
+                    {
+                        "x": 1916,
+                        "y": 1196
+                    },
+                    {
+                        "x": 1917,
+                        "y": 1223
+                    },
+                    {
+                        "x": 1863,
+                        "y": 1226
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "C",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1923,
+                        "y": 1195
+                    },
+                    {
+                        "x": 1934,
+                        "y": 1194
+                    },
+                    {
+                        "x": 1935,
+                        "y": 1220
+                    },
+                    {
+                        "x": 1925,
+                        "y": 1221
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "and",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1940,
+                        "y": 1195
+                    },
+                    {
+                        "x": 1968,
+                        "y": 1193
+                    },
+                    {
+                        "x": 1969,
+                        "y": 1219
+                    },
+                    {
+                        "x": 1942,
+                        "y": 1221
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "calcium.",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1973,
+                        "y": 1193
+                    },
+                    {
+                        "x": 2033,
+                        "y": 1190
+                    },
+                    {
+                        "x": 2034,
+                        "y": 1215
+                    },
+                    {
+                        "x": 1975,
+                        "y": 1219
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Percent",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1560,
+                        "y": 1262
+                    },
+                    {
+                        "x": 1628,
+                        "y": 1258
+                    },
+                    {
+                        "x": 1630,
+                        "y": 1287
+                    },
+                    {
+                        "x": 1562,
+                        "y": 1291
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Daily",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1634,
+                        "y": 1258
+                    },
+                    {
+                        "x": 1676,
+                        "y": 1256
+                    },
+                    {
+                        "x": 1678,
+                        "y": 1289
+                    },
+                    {
+                        "x": 1636,
+                        "y": 1291
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Values",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1683,
+                        "y": 1256
+                    },
+                    {
+                        "x": 1736,
+                        "y": 1253
+                    },
+                    {
+                        "x": 1738,
+                        "y": 1281
+                    },
+                    {
+                        "x": 1685,
+                        "y": 1284
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "are",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1742,
+                        "y": 1260
+                    },
+                    {
+                        "x": 1768,
+                        "y": 1259
+                    },
+                    {
+                        "x": 1769,
+                        "y": 1277
+                    },
+                    {
+                        "x": 1743,
+                        "y": 1279
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "based",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1774,
+                        "y": 1251
+                    },
+                    {
+                        "x": 1824,
+                        "y": 1248
+                    },
+                    {
+                        "x": 1825,
+                        "y": 1275
+                    },
+                    {
+                        "x": 1776,
+                        "y": 1278
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "on",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1829,
+                        "y": 1255
+                    },
+                    {
+                        "x": 1849,
+                        "y": 1254
+                    },
+                    {
+                        "x": 1850,
+                        "y": 1273
+                    },
+                    {
+                        "x": 1830,
+                        "y": 1274
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "a",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1855,
+                        "y": 1254
+                    },
+                    {
+                        "x": 1863,
+                        "y": 1254
+                    },
+                    {
+                        "x": 1864,
+                        "y": 1273
+                    },
+                    {
+                        "x": 1856,
+                        "y": 1273
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "2,000",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1869,
+                        "y": 1246
+                    },
+                    {
+                        "x": 1913,
+                        "y": 1243
+                    },
+                    {
+                        "x": 1915,
+                        "y": 1273
+                    },
+                    {
+                        "x": 1871,
+                        "y": 1276
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "calorie",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1918,
+                        "y": 1243
+                    },
+                    {
+                        "x": 1968,
+                        "y": 1240
+                    },
+                    {
+                        "x": 1969,
+                        "y": 1266
+                    },
+                    {
+                        "x": 1919,
+                        "y": 1269
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "diet.",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1974,
+                        "y": 1239
+                    },
+                    {
+                        "x": 2004,
+                        "y": 1237
+                    },
+                    {
+                        "x": 2005,
+                        "y": 1263
+                    },
+                    {
+                        "x": 1975,
+                        "y": 1265
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Ingredients:",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1536,
+                        "y": 1327
+                    },
+                    {
+                        "x": 1691,
+                        "y": 1315
+                    },
+                    {
+                        "x": 1694,
+                        "y": 1363
+                    },
+                    {
+                        "x": 1540,
+                        "y": 1375
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Whole",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1702,
+                        "y": 1318
+                    },
+                    {
+                        "x": 1777,
+                        "y": 1312
+                    },
+                    {
+                        "x": 1780,
+                        "y": 1348
+                    },
+                    {
+                        "x": 1705,
+                        "y": 1354
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Grain",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1786,
+                        "y": 1311
+                    },
+                    {
+                        "x": 1849,
+                        "y": 1306
+                    },
+                    {
+                        "x": 1852,
+                        "y": 1345
+                    },
+                    {
+                        "x": 1789,
+                        "y": 1350
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Oats,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1857,
+                        "y": 1306
+                    },
+                    {
+                        "x": 1914,
+                        "y": 1302
+                    },
+                    {
+                        "x": 1917,
+                        "y": 1342
+                    },
+                    {
+                        "x": 1860,
+                        "y": 1347
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Whole",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1927,
+                        "y": 1302
+                    },
+                    {
+                        "x": 1994,
+                        "y": 1297
+                    },
+                    {
+                        "x": 1997,
+                        "y": 1333
+                    },
+                    {
+                        "x": 1930,
+                        "y": 1338
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Wheat",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1538,
+                        "y": 1375
+                    },
+                    {
+                        "x": 1619,
+                        "y": 1369
+                    },
+                    {
+                        "x": 1622,
+                        "y": 1410
+                    },
+                    {
+                        "x": 1541,
+                        "y": 1417
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Flour,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1626,
+                        "y": 1372
+                    },
+                    {
+                        "x": 1697,
+                        "y": 1366
+                    },
+                    {
+                        "x": 1700,
+                        "y": 1407
+                    },
+                    {
+                        "x": 1629,
+                        "y": 1413
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Peanut",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1708,
+                        "y": 1367
+                    },
+                    {
+                        "x": 1793,
+                        "y": 1360
+                    },
+                    {
+                        "x": 1796,
+                        "y": 1397
+                    },
+                    {
+                        "x": 1711,
+                        "y": 1404
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Butter",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1800,
+                        "y": 1360
+                    },
+                    {
+                        "x": 1872,
+                        "y": 1354
+                    },
+                    {
+                        "x": 1875,
+                        "y": 1390
+                    },
+                    {
+                        "x": 1803,
+                        "y": 1396
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Flavored",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1879,
+                        "y": 1353
+                    },
+                    {
+                        "x": 1978,
+                        "y": 1345
+                    },
+                    {
+                        "x": 1981,
+                        "y": 1381
+                    },
+                    {
+                        "x": 1882,
+                        "y": 1389
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Chips",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1536,
+                        "y": 1428
+                    },
+                    {
+                        "x": 1611,
+                        "y": 1421
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1471
+                    },
+                    {
+                        "x": 1541,
+                        "y": 1478
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "(sugar,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1620,
+                        "y": 1423
+                    },
+                    {
+                        "x": 1696,
+                        "y": 1416
+                    },
+                    {
+                        "x": 1700,
+                        "y": 1463
+                    },
+                    {
+                        "x": 1624,
+                        "y": 1470
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "palm",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1706,
+                        "y": 1416
+                    },
+                    {
+                        "x": 1762,
+                        "y": 1411
+                    },
+                    {
+                        "x": 1766,
+                        "y": 1457
+                    },
+                    {
+                        "x": 1710,
+                        "y": 1462
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "kernel",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1771,
+                        "y": 1411
+                    },
+                    {
+                        "x": 1840,
+                        "y": 1405
+                    },
+                    {
+                        "x": 1843,
+                        "y": 1439
+                    },
+                    {
+                        "x": 1774,
+                        "y": 1446
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "and",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1845,
+                        "y": 1406
+                    },
+                    {
+                        "x": 1888,
+                        "y": 1402
+                    },
+                    {
+                        "x": 1891,
+                        "y": 1435
+                    },
+                    {
+                        "x": 1848,
+                        "y": 1439
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "palm",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1893,
+                        "y": 1401
+                    },
+                    {
+                        "x": 1944,
+                        "y": 1396
+                    },
+                    {
+                        "x": 1948,
+                        "y": 1438
+                    },
+                    {
+                        "x": 1897,
+                        "y": 1443
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "oil,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1953,
+                        "y": 1396
+                    },
+                    {
+                        "x": 1978,
+                        "y": 1394
+                    },
+                    {
+                        "x": 1981,
+                        "y": 1430
+                    },
+                    {
+                        "x": 1956,
+                        "y": 1432
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "partially",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1532,
+                        "y": 1480
+                    },
+                    {
+                        "x": 1628,
+                        "y": 1470
+                    },
+                    {
+                        "x": 1633,
+                        "y": 1518
+                    },
+                    {
+                        "x": 1537,
+                        "y": 1528
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "defatted",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1635,
+                        "y": 1468
+                    },
+                    {
+                        "x": 1731,
+                        "y": 1458
+                    },
+                    {
+                        "x": 1736,
+                        "y": 1499
+                    },
+                    {
+                        "x": 1639,
+                        "y": 1509
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "peanut",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1738,
+                        "y": 1467
+                    },
+                    {
+                        "x": 1816,
+                        "y": 1459
+                    },
+                    {
+                        "x": 1820,
+                        "y": 1499
+                    },
+                    {
+                        "x": 1742,
+                        "y": 1507
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "flour,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1823,
+                        "y": 1454
+                    },
+                    {
+                        "x": 1873,
+                        "y": 1449
+                    },
+                    {
+                        "x": 1877,
+                        "y": 1489
+                    },
+                    {
+                        "x": 1827,
+                        "y": 1494
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "nonfat",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1882,
+                        "y": 1442
+                    },
+                    {
+                        "x": 1949,
+                        "y": 1435
+                    },
+                    {
+                        "x": 1953,
+                        "y": 1476
+                    },
+                    {
+                        "x": 1886,
+                        "y": 1483
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "mik,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1955,
+                        "y": 1442
+                    },
+                    {
+                        "x": 2001,
+                        "y": 1437
+                    },
+                    {
+                        "x": 2005,
+                        "y": 1475
+                    },
+                    {
+                        "x": 1959,
+                        "y": 1480
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "whey,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1534,
+                        "y": 1532
+                    },
+                    {
+                        "x": 1599,
+                        "y": 1525
+                    },
+                    {
+                        "x": 1604,
+                        "y": 1570
+                    },
+                    {
+                        "x": 1539,
+                        "y": 1578
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "peanut",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1608,
+                        "y": 1528
+                    },
+                    {
+                        "x": 1692,
+                        "y": 1519
+                    },
+                    {
+                        "x": 1697,
+                        "y": 1560
+                    },
+                    {
+                        "x": 1613,
+                        "y": 1570
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "butter",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1699,
+                        "y": 1516
+                    },
+                    {
+                        "x": 1766,
+                        "y": 1509
+                    },
+                    {
+                        "x": 1770,
+                        "y": 1544
+                    },
+                    {
+                        "x": 1703,
+                        "y": 1552
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "(peanuts),",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1771,
+                        "y": 1508
+                    },
+                    {
+                        "x": 1877,
+                        "y": 1496
+                    },
+                    {
+                        "x": 1882,
+                        "y": 1540
+                    },
+                    {
+                        "x": 1776,
+                        "y": 1552
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "salt,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1879,
+                        "y": 1492
+                    },
+                    {
+                        "x": 1938,
+                        "y": 1485
+                    },
+                    {
+                        "x": 1943,
+                        "y": 1532
+                    },
+                    {
+                        "x": 1884,
+                        "y": 1539
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "soy",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1939,
+                        "y": 1499
+                    },
+                    {
+                        "x": 1976,
+                        "y": 1495
+                    },
+                    {
+                        "x": 1980,
+                        "y": 1529
+                    },
+                    {
+                        "x": 1943,
+                        "y": 1533
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "lecithin),",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1531,
+                        "y": 1579
+                    },
+                    {
+                        "x": 1632,
+                        "y": 1567
+                    },
+                    {
+                        "x": 1638,
+                        "y": 1621
+                    },
+                    {
+                        "x": 1537,
+                        "y": 1633
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Sugar,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1635,
+                        "y": 1568
+                    },
+                    {
+                        "x": 1722,
+                        "y": 1558
+                    },
+                    {
+                        "x": 1728,
+                        "y": 1611
+                    },
+                    {
+                        "x": 1641,
+                        "y": 1621
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Canola",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1724,
+                        "y": 1558
+                    },
+                    {
+                        "x": 1811,
+                        "y": 1548
+                    },
+                    {
+                        "x": 1817,
+                        "y": 1601
+                    },
+                    {
+                        "x": 1730,
+                        "y": 1611
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Oil,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1822,
+                        "y": 1551
+                    },
+                    {
+                        "x": 1857,
+                        "y": 1547
+                    },
+                    {
+                        "x": 1861,
+                        "y": 1588
+                    },
+                    {
+                        "x": 1827,
+                        "y": 1592
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Tapioca",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1870,
+                        "y": 1541
+                    },
+                    {
+                        "x": 1953,
+                        "y": 1531
+                    },
+                    {
+                        "x": 1960,
+                        "y": 1585
+                    },
+                    {
+                        "x": 1876,
+                        "y": 1595
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Syrup,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1530,
+                        "y": 1632
+                    },
+                    {
+                        "x": 1612,
+                        "y": 1622
+                    },
+                    {
+                        "x": 1618,
+                        "y": 1667
+                    },
+                    {
+                        "x": 1536,
+                        "y": 1678
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Peanut",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1623,
+                        "y": 1619
+                    },
+                    {
+                        "x": 1712,
+                        "y": 1608
+                    },
+                    {
+                        "x": 1717,
+                        "y": 1647
+                    },
+                    {
+                        "x": 1628,
+                        "y": 1658
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Butter",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1718,
+                        "y": 1607
+                    },
+                    {
+                        "x": 1794,
+                        "y": 1597
+                    },
+                    {
+                        "x": 1799,
+                        "y": 1636
+                    },
+                    {
+                        "x": 1723,
+                        "y": 1646
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "(peanuts,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1802,
+                        "y": 1597
+                    },
+                    {
+                        "x": 1900,
+                        "y": 1585
+                    },
+                    {
+                        "x": 1906,
+                        "y": 1631
+                    },
+                    {
+                        "x": 1808,
+                        "y": 1644
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "salt),",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1910,
+                        "y": 1589
+                    },
+                    {
+                        "x": 1956,
+                        "y": 1583
+                    },
+                    {
+                        "x": 1960,
+                        "y": 1622
+                    },
+                    {
+                        "x": 1915,
+                        "y": 1628
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Partially",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1528,
+                        "y": 1679
+                    },
+                    {
+                        "x": 1636,
+                        "y": 1665
+                    },
+                    {
+                        "x": 1642,
+                        "y": 1711
+                    },
+                    {
+                        "x": 1534,
+                        "y": 1726
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Defatted",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1644,
+                        "y": 1670
+                    },
+                    {
+                        "x": 1750,
+                        "y": 1656
+                    },
+                    {
+                        "x": 1755,
+                        "y": 1693
+                    },
+                    {
+                        "x": 1649,
+                        "y": 1708
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Peanut",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1754,
+                        "y": 1648
+                    },
+                    {
+                        "x": 1838,
+                        "y": 1637
+                    },
+                    {
+                        "x": 1844,
+                        "y": 1678
+                    },
+                    {
+                        "x": 1760,
+                        "y": 1690
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Flour,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1846,
+                        "y": 1643
+                    },
+                    {
+                        "x": 1908,
+                        "y": 1635
+                    },
+                    {
+                        "x": 1914,
+                        "y": 1676
+                    },
+                    {
+                        "x": 1852,
+                        "y": 1685
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Peanut",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1916,
+                        "y": 1627
+                    },
+                    {
+                        "x": 1995,
+                        "y": 1616
+                    },
+                    {
+                        "x": 2001,
+                        "y": 1657
+                    },
+                    {
+                        "x": 1921,
+                        "y": 1668
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Butter",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1528,
+                        "y": 1731
+                    },
+                    {
+                        "x": 1610,
+                        "y": 1720
+                    },
+                    {
+                        "x": 1615,
+                        "y": 1758
+                    },
+                    {
+                        "x": 1533,
+                        "y": 1769
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Flavored",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1617,
+                        "y": 1717
+                    },
+                    {
+                        "x": 1727,
+                        "y": 1703
+                    },
+                    {
+                        "x": 1732,
+                        "y": 1744
+                    },
+                    {
+                        "x": 1622,
+                        "y": 1758
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Coating",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1735,
+                        "y": 1706
+                    },
+                    {
+                        "x": 1827,
+                        "y": 1694
+                    },
+                    {
+                        "x": 1833,
+                        "y": 1737
+                    },
+                    {
+                        "x": 1740,
+                        "y": 1749
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "(sugar,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1836,
+                        "y": 1693
+                    },
+                    {
+                        "x": 1903,
+                        "y": 1684
+                    },
+                    {
+                        "x": 1909,
+                        "y": 1725
+                    },
+                    {
+                        "x": 1841,
+                        "y": 1734
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "palm",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1913,
+                        "y": 1681
+                    },
+                    {
+                        "x": 1966,
+                        "y": 1674
+                    },
+                    {
+                        "x": 1971,
+                        "y": 1716
+                    },
+                    {
+                        "x": 1918,
+                        "y": 1723
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "kernel",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1524,
+                        "y": 1782
+                    },
+                    {
+                        "x": 1602,
+                        "y": 1770
+                    },
+                    {
+                        "x": 1608,
+                        "y": 1809
+                    },
+                    {
+                        "x": 1530,
+                        "y": 1822
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "and",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1608,
+                        "y": 1774
+                    },
+                    {
+                        "x": 1656,
+                        "y": 1766
+                    },
+                    {
+                        "x": 1662,
+                        "y": 1802
+                    },
+                    {
+                        "x": 1614,
+                        "y": 1810
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "palm",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1659,
+                        "y": 1766
+                    },
+                    {
+                        "x": 1718,
+                        "y": 1757
+                    },
+                    {
+                        "x": 1725,
+                        "y": 1797
+                    },
+                    {
+                        "x": 1665,
+                        "y": 1807
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "oils,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1724,
+                        "y": 1755
+                    },
+                    {
+                        "x": 1766,
+                        "y": 1748
+                    },
+                    {
+                        "x": 1773,
+                        "y": 1788
+                    },
+                    {
+                        "x": 1730,
+                        "y": 1795
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "partially",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1768,
+                        "y": 1742
+                    },
+                    {
+                        "x": 1873,
+                        "y": 1726
+                    },
+                    {
+                        "x": 1880,
+                        "y": 1773
+                    },
+                    {
+                        "x": 1775,
+                        "y": 1789
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "defatted",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1868,
+                        "y": 1727
+                    },
+                    {
+                        "x": 1956,
+                        "y": 1713
+                    },
+                    {
+                        "x": 1962,
+                        "y": 1754
+                    },
+                    {
+                        "x": 1874,
+                        "y": 1768
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "peanut",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1524,
+                        "y": 1834
+                    },
+                    {
+                        "x": 1606,
+                        "y": 1820
+                    },
+                    {
+                        "x": 1612,
+                        "y": 1860
+                    },
+                    {
+                        "x": 1531,
+                        "y": 1873
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "flour,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1617,
+                        "y": 1818
+                    },
+                    {
+                        "x": 1671,
+                        "y": 1809
+                    },
+                    {
+                        "x": 1678,
+                        "y": 1850
+                    },
+                    {
+                        "x": 1624,
+                        "y": 1859
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "peanuts,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1680,
+                        "y": 1811
+                    },
+                    {
+                        "x": 1776,
+                        "y": 1795
+                    },
+                    {
+                        "x": 1782,
+                        "y": 1833
+                    },
+                    {
+                        "x": 1686,
+                        "y": 1848
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "nonfat",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1787,
+                        "y": 1792
+                    },
+                    {
+                        "x": 1857,
+                        "y": 1780
+                    },
+                    {
+                        "x": 1863,
+                        "y": 1816
+                    },
+                    {
+                        "x": 1793,
+                        "y": 1828
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "milk,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1862,
+                        "y": 1782
+                    },
+                    {
+                        "x": 1905,
+                        "y": 1775
+                    },
+                    {
+                        "x": 1911,
+                        "y": 1810
+                    },
+                    {
+                        "x": 1868,
+                        "y": 1818
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "whey,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1919,
+                        "y": 1773
+                    },
+                    {
+                        "x": 1973,
+                        "y": 1764
+                    },
+                    {
+                        "x": 1979,
+                        "y": 1801
+                    },
+                    {
+                        "x": 1925,
+                        "y": 1810
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "salt,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1982,
+                        "y": 1760
+                    },
+                    {
+                        "x": 2020,
+                        "y": 1754
+                    },
+                    {
+                        "x": 2026,
+                        "y": 1788
+                    },
+                    {
+                        "x": 1988,
+                        "y": 1795
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "soy",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1524,
+                        "y": 1892
+                    },
+                    {
+                        "x": 1570,
+                        "y": 1884
+                    },
+                    {
+                        "x": 1578,
+                        "y": 1925
+                    },
+                    {
+                        "x": 1531,
+                        "y": 1933
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "lecithin),",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1575,
+                        "y": 1876
+                    },
+                    {
+                        "x": 1670,
+                        "y": 1859
+                    },
+                    {
+                        "x": 1678,
+                        "y": 1908
+                    },
+                    {
+                        "x": 1584,
+                        "y": 1925
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Vegetable",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1685,
+                        "y": 1853
+                    },
+                    {
+                        "x": 1800,
+                        "y": 1833
+                    },
+                    {
+                        "x": 1809,
+                        "y": 1885
+                    },
+                    {
+                        "x": 1694,
+                        "y": 1905
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Glycerin,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1804,
+                        "y": 1837
+                    },
+                    {
+                        "x": 1906,
+                        "y": 1819
+                    },
+                    {
+                        "x": 1915,
+                        "y": 1866
+                    },
+                    {
+                        "x": 1812,
+                        "y": 1884
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Honey,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1916,
+                        "y": 1812
+                    },
+                    {
+                        "x": 1988,
+                        "y": 1799
+                    },
+                    {
+                        "x": 1997,
+                        "y": 1851
+                    },
+                    {
+                        "x": 1925,
+                        "y": 1864
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Chicory",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1524,
+                        "y": 1932
+                    },
+                    {
+                        "x": 1625,
+                        "y": 1914
+                    },
+                    {
+                        "x": 1633,
+                        "y": 1957
+                    },
+                    {
+                        "x": 1532,
+                        "y": 1975
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Root",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1632,
+                        "y": 1910
+                    },
+                    {
+                        "x": 1692,
+                        "y": 1899
+                    },
+                    {
+                        "x": 1699,
+                        "y": 1938
+                    },
+                    {
+                        "x": 1639,
+                        "y": 1949
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Extract,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1699,
+                        "y": 1898
+                    },
+                    {
+                        "x": 1789,
+                        "y": 1882
+                    },
+                    {
+                        "x": 1796,
+                        "y": 1925
+                    },
+                    {
+                        "x": 1707,
+                        "y": 1941
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Water,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1801,
+                        "y": 1879
+                    },
+                    {
+                        "x": 1867,
+                        "y": 1867
+                    },
+                    {
+                        "x": 1874,
+                        "y": 1908
+                    },
+                    {
+                        "x": 1809,
+                        "y": 1920
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Egg",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1877,
+                        "y": 1870
+                    },
+                    {
+                        "x": 1922,
+                        "y": 1862
+                    },
+                    {
+                        "x": 1930,
+                        "y": 1902
+                    },
+                    {
+                        "x": 1884,
+                        "y": 1910
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Yolk,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1931,
+                        "y": 1856
+                    },
+                    {
+                        "x": 1984,
+                        "y": 1846
+                    },
+                    {
+                        "x": 1991,
+                        "y": 1885
+                    },
+                    {
+                        "x": 1938,
+                        "y": 1894
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Molasses,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1520,
+                        "y": 1978
+                    },
+                    {
+                        "x": 1647,
+                        "y": 1954
+                    },
+                    {
+                        "x": 1655,
+                        "y": 1999
+                    },
+                    {
+                        "x": 1529,
+                        "y": 2023
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Baking",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1658,
+                        "y": 1958
+                    },
+                    {
+                        "x": 1743,
+                        "y": 1942
+                    },
+                    {
+                        "x": 1751,
+                        "y": 1980
+                    },
+                    {
+                        "x": 1665,
+                        "y": 1996
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Soda,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1751,
+                        "y": 1940
+                    },
+                    {
+                        "x": 1815,
+                        "y": 1928
+                    },
+                    {
+                        "x": 1822,
+                        "y": 1963
+                    },
+                    {
+                        "x": 1758,
+                        "y": 1975
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Salt,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1825,
+                        "y": 1926
+                    },
+                    {
+                        "x": 1872,
+                        "y": 1917
+                    },
+                    {
+                        "x": 1878,
+                        "y": 1948
+                    },
+                    {
+                        "x": 1831,
+                        "y": 1957
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Egg",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1881,
+                        "y": 1909
+                    },
+                    {
+                        "x": 1926,
+                        "y": 1900
+                    },
+                    {
+                        "x": 1935,
+                        "y": 1945
+                    },
+                    {
+                        "x": 1889,
+                        "y": 1953
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "White,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1937,
+                        "y": 1905
+                    },
+                    {
+                        "x": 1999,
+                        "y": 1893
+                    },
+                    {
+                        "x": 2005,
+                        "y": 1924
+                    },
+                    {
+                        "x": 1943,
+                        "y": 1935
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Peanut",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1520,
+                        "y": 2029
+                    },
+                    {
+                        "x": 1612,
+                        "y": 2010
+                    },
+                    {
+                        "x": 1619,
+                        "y": 2047
+                    },
+                    {
+                        "x": 1527,
+                        "y": 2065
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Oil,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1620,
+                        "y": 2010
+                    },
+                    {
+                        "x": 1657,
+                        "y": 2002
+                    },
+                    {
+                        "x": 1666,
+                        "y": 2044
+                    },
+                    {
+                        "x": 1628,
+                        "y": 2051
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Corn",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1668,
+                        "y": 2002
+                    },
+                    {
+                        "x": 1728,
+                        "y": 1990
+                    },
+                    {
+                        "x": 1735,
+                        "y": 2023
+                    },
+                    {
+                        "x": 1675,
+                        "y": 2035
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Syrup,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1736,
+                        "y": 1985
+                    },
+                    {
+                        "x": 1809,
+                        "y": 1970
+                    },
+                    {
+                        "x": 1818,
+                        "y": 2015
+                    },
+                    {
+                        "x": 1745,
+                        "y": 2030
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Natural",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1818,
+                        "y": 1968
+                    },
+                    {
+                        "x": 1898,
+                        "y": 1952
+                    },
+                    {
+                        "x": 1908,
+                        "y": 1998
+                    },
+                    {
+                        "x": 1827,
+                        "y": 2014
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Flavor.",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1902,
+                        "y": 1951
+                    },
+                    {
+                        "x": 1983,
+                        "y": 1935
+                    },
+                    {
+                        "x": 1993,
+                        "y": 1981
+                    },
+                    {
+                        "x": 1911,
+                        "y": 1997
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "CONTAINS",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1521,
+                        "y": 2095
+                    },
+                    {
+                        "x": 1659,
+                        "y": 2066
+                    },
+                    {
+                        "x": 1667,
+                        "y": 2103
+                    },
+                    {
+                        "x": 1529,
+                        "y": 2132
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "WHEAT,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1668,
+                        "y": 2066
+                    },
+                    {
+                        "x": 1759,
+                        "y": 2047
+                    },
+                    {
+                        "x": 1766,
+                        "y": 2082
+                    },
+                    {
+                        "x": 1676,
+                        "y": 2101
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "PEANUT,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1767,
+                        "y": 2045
+                    },
+                    {
+                        "x": 1870,
+                        "y": 2023
+                    },
+                    {
+                        "x": 1877,
+                        "y": 2058
+                    },
+                    {
+                        "x": 1775,
+                        "y": 2080
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "EGG,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1877,
+                        "y": 2019
+                    },
+                    {
+                        "x": 1932,
+                        "y": 2007
+                    },
+                    {
+                        "x": 1939,
+                        "y": 2041
+                    },
+                    {
+                        "x": 1884,
+                        "y": 2052
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "MILK",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1942,
+                        "y": 2008
+                    },
+                    {
+                        "x": 2002,
+                        "y": 1995
+                    },
+                    {
+                        "x": 2008,
+                        "y": 2026
+                    },
+                    {
+                        "x": 1948,
+                        "y": 2038
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "AND",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1521,
+                        "y": 2142
+                    },
+                    {
+                        "x": 1579,
+                        "y": 2131
+                    },
+                    {
+                        "x": 1584,
+                        "y": 2157
+                    },
+                    {
+                        "x": 1526,
+                        "y": 2169
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "SOY",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1591,
+                        "y": 2122
+                    },
+                    {
+                        "x": 1643,
+                        "y": 2112
+                    },
+                    {
+                        "x": 1650,
+                        "y": 2150
+                    },
+                    {
+                        "x": 1598,
+                        "y": 2160
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "INGREDIENTS.",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1646,
+                        "y": 2111
+                    },
+                    {
+                        "x": 1829,
+                        "y": 2076
+                    },
+                    {
+                        "x": 1836,
+                        "y": 2115
+                    },
+                    {
+                        "x": 1654,
+                        "y": 2150
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "INC,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1760,
+                        "y": 2131
+                    },
+                    {
+                        "x": 1804,
+                        "y": 2120
+                    },
+                    {
+                        "x": 1812,
+                        "y": 2153
+                    },
+                    {
+                        "x": 1768,
+                        "y": 2164
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "MINNEAPOLIS,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1806,
+                        "y": 2121
+                    },
+                    {
+                        "x": 1908,
+                        "y": 2096
+                    },
+                    {
+                        "x": 1916,
+                        "y": 2129
+                    },
+                    {
+                        "x": 1814,
+                        "y": 2154
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "MN",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1910,
+                        "y": 2095
+                    },
+                    {
+                        "x": 1929,
+                        "y": 2090
+                    },
+                    {
+                        "x": 1937,
+                        "y": 2122
+                    },
+                    {
+                        "x": 1918,
+                        "y": 2127
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "55440",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1932,
+                        "y": 2090
+                    },
+                    {
+                        "x": 1974,
+                        "y": 2080
+                    },
+                    {
+                        "x": 1982,
+                        "y": 2112
+                    },
+                    {
+                        "x": 1940,
+                        "y": 2122
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "USA",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1977,
+                        "y": 2079
+                    },
+                    {
+                        "x": 2007,
+                        "y": 2072
+                    },
+                    {
+                        "x": 2015,
+                        "y": 2104
+                    },
+                    {
+                        "x": 1985,
+                        "y": 2111
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Peamil",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1126,
+                        "y": 1692
+                    },
+                    {
+                        "x": 1257,
+                        "y": 1825
+                    },
+                    {
+                        "x": 1199,
+                        "y": 1883
+                    },
+                    {
+                        "x": 1068,
+                        "y": 1750
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Rutter",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1260,
+                        "y": 1829
+                    },
+                    {
+                        "x": 1414,
+                        "y": 1985
+                    },
+                    {
+                        "x": 1356,
+                        "y": 2042
+                    },
+                    {
+                        "x": 1202,
+                        "y": 1886
+                    }
+                ]
+            }
+        }
+    ]
+}

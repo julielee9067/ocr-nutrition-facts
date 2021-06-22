@@ -1,0 +1,406 @@
+{
+    "fields": [
+        {
+            "inferText": "arati"
+        },
+        {
+            "inferText": "PATE"
+        },
+        {
+            "inferText": "FEUILLETEE PARATHA"
+        },
+        {
+            "inferText": "Nutrition"
+        },
+        {
+            "inferText": "Serving Size for Facts"
+        },
+        {
+            "inferText": "Serving Per Contains recial"
+        },
+        {
+            "inferText": "s"
+        },
+        {
+            "inferText": "Amount Per Serving"
+        },
+        {
+            "inferText": "Calories 221"
+        },
+        {
+            "inferText": "Calories from Fat 35"
+        },
+        {
+            "inferText": "Total % Daily Value*"
+        },
+        {
+            "inferText": "Fat 4g 6%"
+        },
+        {
+            "inferText": "Saturated fat 2g 12%"
+        },
+        {
+            "inferText": "Trans fat 0g"
+        },
+        {
+            "inferText": "Cholesterol Omg"
+        },
+        {
+            "inferText": "Sodium 298mg 12%"
+        },
+        {
+            "inferText": "Total Carbohydrate 41g 14%"
+        },
+        {
+            "inferText": "Fiber 5g"
+        },
+        {
+            "inferText": "Dietary"
+        },
+        {
+            "inferText": "19%"
+        },
+        {
+            "inferText": "Sugars 2g"
+        },
+        {
+            "inferText": "Protein 5g"
+        },
+        {
+            "inferText": "A 1% Vitamin c 5%"
+        },
+        {
+            "inferText": "Vitamin"
+        },
+        {
+            "inferText": "31%"
+        },
+        {
+            "inferText": "Calcium 3% Iron"
+        },
+        {
+            "inferText": "Daily Values are based 2,000 calorie diet. on"
+        },
+        {
+            "inferText": "Percent Your daily values may be higher or lower depending"
+        },
+        {
+            "inferText": "your calorie needs 2,000 2,500"
+        },
+        {
+            "inferText": "Calories:"
+        },
+        {
+            "inferText": "80g"
+        },
+        {
+            "inferText": "Total Fat Less than 65g 25g"
+        },
+        {
+            "inferText": "Saturated Fat Less than 20g"
+        },
+        {
+            "inferText": "than"
+        },
+        {
+            "inferText": "arati"
+        },
+        {
+            "inferText": "PATE"
+        },
+        {
+            "inferText": "FEUILLETEE"
+        },
+        {
+            "inferText": "PARATHA"
+        },
+        {
+            "inferText": "Nutrition"
+        },
+        {
+            "inferText": "Facts"
+        },
+        {
+            "inferText": "Serving"
+        },
+        {
+            "inferText": "Size"
+        },
+        {
+            "inferText": "Serving"
+        },
+        {
+            "inferText": "for"
+        },
+        {
+            "inferText": "recial"
+        },
+        {
+            "inferText": "Per"
+        },
+        {
+            "inferText": "Contains"
+        },
+        {
+            "inferText": "s"
+        },
+        {
+            "inferText": "Amount"
+        },
+        {
+            "inferText": "Per"
+        },
+        {
+            "inferText": "Serving"
+        },
+        {
+            "inferText": "Calories"
+        },
+        {
+            "inferText": "221"
+        },
+        {
+            "inferText": "Calories"
+        },
+        {
+            "inferText": "from"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "35"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Daily"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Value*"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "4g"
+        },
+        {
+            "inferText": "6%"
+        },
+        {
+            "inferText": "Saturated"
+        },
+        {
+            "inferText": "fat"
+        },
+        {
+            "inferText": "2g"
+        },
+        {
+            "inferText": "12%"
+        },
+        {
+            "inferText": "Trans"
+        },
+        {
+            "inferText": "fat"
+        },
+        {
+            "inferText": "0g"
+        },
+        {
+            "inferText": "Cholesterol"
+        },
+        {
+            "inferText": "Omg"
+        },
+        {
+            "inferText": "Sodium"
+        },
+        {
+            "inferText": "298mg"
+        },
+        {
+            "inferText": "12%"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Carbohydrate"
+        },
+        {
+            "inferText": "41g"
+        },
+        {
+            "inferText": "14%"
+        },
+        {
+            "inferText": "Dietary"
+        },
+        {
+            "inferText": "Fiber"
+        },
+        {
+            "inferText": "5g"
+        },
+        {
+            "inferText": "19%"
+        },
+        {
+            "inferText": "Sugars"
+        },
+        {
+            "inferText": "2g"
+        },
+        {
+            "inferText": "Protein"
+        },
+        {
+            "inferText": "5g"
+        },
+        {
+            "inferText": "1%"
+        },
+        {
+            "inferText": "Vitamin"
+        },
+        {
+            "inferText": "c"
+        },
+        {
+            "inferText": "5%"
+        },
+        {
+            "inferText": "Vitamin"
+        },
+        {
+            "inferText": "A"
+        },
+        {
+            "inferText": "3%"
+        },
+        {
+            "inferText": "Iron"
+        },
+        {
+            "inferText": "31%"
+        },
+        {
+            "inferText": "Calcium"
+        },
+        {
+            "inferText": "2,000"
+        },
+        {
+            "inferText": "calorie"
+        },
+        {
+            "inferText": "diet."
+        },
+        {
+            "inferText": "Percent"
+        },
+        {
+            "inferText": "Daily"
+        },
+        {
+            "inferText": "Values"
+        },
+        {
+            "inferText": "are"
+        },
+        {
+            "inferText": "based"
+        },
+        {
+            "inferText": "on"
+        },
+        {
+            "inferText": "Your"
+        },
+        {
+            "inferText": "daily values"
+        },
+        {
+            "inferText": "may"
+        },
+        {
+            "inferText": "be"
+        },
+        {
+            "inferText": "higher"
+        },
+        {
+            "inferText": "or"
+        },
+        {
+            "inferText": "lower"
+        },
+        {
+            "inferText": "depending"
+        },
+        {
+            "inferText": "your"
+        },
+        {
+            "inferText": "calorie"
+        },
+        {
+            "inferText": "needs"
+        },
+        {
+            "inferText": "2,000"
+        },
+        {
+            "inferText": "2,500"
+        },
+        {
+            "inferText": "Calories:"
+        },
+        {
+            "inferText": "65g"
+        },
+        {
+            "inferText": "80g"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "Less"
+        },
+        {
+            "inferText": "than"
+        },
+        {
+            "inferText": "than"
+        },
+        {
+            "inferText": "20g"
+        },
+        {
+            "inferText": "25g"
+        },
+        {
+            "inferText": "Saturated"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "Less"
+        },
+        {
+            "inferText": "than"
+        }
+    ]
+}

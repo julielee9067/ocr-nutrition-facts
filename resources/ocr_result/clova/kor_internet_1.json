@@ -1,0 +1,1604 @@
+{
+    "uid": "6c8a87d4c05649e58db90bb56564f7cb",
+    "name": "kor_internet_1",
+    "inferResult": "SUCCESS",
+    "message": "SUCCESS",
+    "validationResult": {
+        "result": "NO_REQUESTED"
+    },
+    "fields": [
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 8.0,
+                        "y": 3.0
+                    },
+                    {
+                        "x": 130.0,
+                        "y": 3.0
+                    },
+                    {
+                        "x": 130.0,
+                        "y": 37.0
+                    },
+                    {
+                        "x": 8.0,
+                        "y": 37.0
+                    }
+                ]
+            },
+            "inferText": "영양성분",
+            "inferConfidence": 0.9986,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 183.0,
+                        "y": 13.0
+                    },
+                    {
+                        "x": 256.0,
+                        "y": 13.0
+                    },
+                    {
+                        "x": 256.0,
+                        "y": 35.0
+                    },
+                    {
+                        "x": 183.0,
+                        "y": 35.0
+                    }
+                ]
+            },
+            "inferText": "·1회 분량",
+            "inferConfidence": 0.9781,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 256.0,
+                        "y": 16.0
+                    },
+                    {
+                        "x": 287.0,
+                        "y": 16.0
+                    },
+                    {
+                        "x": 287.0,
+                        "y": 34.0
+                    },
+                    {
+                        "x": 256.0,
+                        "y": 34.0
+                    }
+                ]
+            },
+            "inferText": "40g",
+            "inferConfidence": 0.9993,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 40.0,
+                        "y": 44.0
+                    },
+                    {
+                        "x": 141.0,
+                        "y": 44.0
+                    },
+                    {
+                        "x": 141.0,
+                        "y": 65.0
+                    },
+                    {
+                        "x": 40.0,
+                        "y": 65.0
+                    }
+                ]
+            },
+            "inferText": "1회 분량당 함량",
+            "inferConfidence": 0.9966,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 194.0,
+                        "y": 43.0
+                    },
+                    {
+                        "x": 295.0,
+                        "y": 43.0
+                    },
+                    {
+                        "x": 295.0,
+                        "y": 64.0
+                    },
+                    {
+                        "x": 194.0,
+                        "y": 64.0
+                    }
+                ]
+            },
+            "inferText": "%영양소 기준치",
+            "inferConfidence": 0.9318,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 11.0,
+                        "y": 66.0
+                    },
+                    {
+                        "x": 50.0,
+                        "y": 66.0
+                    },
+                    {
+                        "x": 50.0,
+                        "y": 89.0
+                    },
+                    {
+                        "x": 11.0,
+                        "y": 89.0
+                    }
+                ]
+            },
+            "inferText": "열량",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 137.0,
+                        "y": 69.0
+                    },
+                    {
+                        "x": 199.0,
+                        "y": 69.0
+                    },
+                    {
+                        "x": 199.0,
+                        "y": 86.0
+                    },
+                    {
+                        "x": 137.0,
+                        "y": 86.0
+                    }
+                ]
+            },
+            "inferText": "380kcal",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 11.0,
+                        "y": 91.0
+                    },
+                    {
+                        "x": 80.0,
+                        "y": 91.0
+                    },
+                    {
+                        "x": 80.0,
+                        "y": 114.0
+                    },
+                    {
+                        "x": 11.0,
+                        "y": 114.0
+                    }
+                ]
+            },
+            "inferText": "탄수화물",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 144.0,
+                        "y": 93.0
+                    },
+                    {
+                        "x": 175.0,
+                        "y": 93.0
+                    },
+                    {
+                        "x": 175.0,
+                        "y": 112.0
+                    },
+                    {
+                        "x": 144.0,
+                        "y": 112.0
+                    }
+                ]
+            },
+            "inferText": "84g",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 254.0,
+                        "y": 93.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 93.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 110.0
+                    },
+                    {
+                        "x": 254.0,
+                        "y": 110.0
+                    }
+                ]
+            },
+            "inferText": "26%",
+            "inferConfidence": 0.9999,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 45.0,
+                        "y": 116.0
+                    },
+                    {
+                        "x": 115.0,
+                        "y": 116.0
+                    },
+                    {
+                        "x": 115.0,
+                        "y": 139.0
+                    },
+                    {
+                        "x": 45.0,
+                        "y": 139.0
+                    }
+                ]
+            },
+            "inferText": "식이섬유",
+            "inferConfidence": 0.9999,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 146.0,
+                        "y": 118.0
+                    },
+                    {
+                        "x": 175.0,
+                        "y": 118.0
+                    },
+                    {
+                        "x": 175.0,
+                        "y": 137.0
+                    },
+                    {
+                        "x": 146.0,
+                        "y": 137.0
+                    }
+                ]
+            },
+            "inferText": "10g",
+            "inferConfidence": 0.9999,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 254.0,
+                        "y": 118.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 118.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 135.0
+                    },
+                    {
+                        "x": 254.0,
+                        "y": 135.0
+                    }
+                ]
+            },
+            "inferText": "40%",
+            "inferConfidence": 0.998,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 44.0,
+                        "y": 140.0
+                    },
+                    {
+                        "x": 84.0,
+                        "y": 140.0
+                    },
+                    {
+                        "x": 84.0,
+                        "y": 164.0
+                    },
+                    {
+                        "x": 44.0,
+                        "y": 164.0
+                    }
+                ]
+            },
+            "inferText": "당류",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 152.0,
+                        "y": 142.0
+                    },
+                    {
+                        "x": 176.0,
+                        "y": 142.0
+                    },
+                    {
+                        "x": 176.0,
+                        "y": 162.0
+                    },
+                    {
+                        "x": 152.0,
+                        "y": 162.0
+                    }
+                ]
+            },
+            "inferText": "2g",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 10.0,
+                        "y": 164.0
+                    },
+                    {
+                        "x": 64.0,
+                        "y": 164.0
+                    },
+                    {
+                        "x": 64.0,
+                        "y": 188.0
+                    },
+                    {
+                        "x": 10.0,
+                        "y": 188.0
+                    }
+                ]
+            },
+            "inferText": "단백질",
+            "inferConfidence": 0.9995,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 151.0,
+                        "y": 167.0
+                    },
+                    {
+                        "x": 176.0,
+                        "y": 167.0
+                    },
+                    {
+                        "x": 176.0,
+                        "y": 186.0
+                    },
+                    {
+                        "x": 151.0,
+                        "y": 186.0
+                    }
+                ]
+            },
+            "inferText": "6g",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 256.0,
+                        "y": 167.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 167.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 184.0
+                    },
+                    {
+                        "x": 256.0,
+                        "y": 184.0
+                    }
+                ]
+            },
+            "inferText": "10%",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 11.0,
+                        "y": 190.0
+                    },
+                    {
+                        "x": 50.0,
+                        "y": 190.0
+                    },
+                    {
+                        "x": 50.0,
+                        "y": 212.0
+                    },
+                    {
+                        "x": 11.0,
+                        "y": 212.0
+                    }
+                ]
+            },
+            "inferText": "지방",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 152.0,
+                        "y": 192.0
+                    },
+                    {
+                        "x": 176.0,
+                        "y": 192.0
+                    },
+                    {
+                        "x": 176.0,
+                        "y": 211.0
+                    },
+                    {
+                        "x": 152.0,
+                        "y": 211.0
+                    }
+                ]
+            },
+            "inferText": "2g",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 264.0,
+                        "y": 192.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 192.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 209.0
+                    },
+                    {
+                        "x": 264.0,
+                        "y": 209.0
+                    }
+                ]
+            },
+            "inferText": "4%",
+            "inferConfidence": 0.9941,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 42.0,
+                        "y": 214.0
+                    },
+                    {
+                        "x": 118.0,
+                        "y": 214.0
+                    },
+                    {
+                        "x": 118.0,
+                        "y": 237.0
+                    },
+                    {
+                        "x": 42.0,
+                        "y": 237.0
+                    }
+                ]
+            },
+            "inferText": "포화 지방",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 151.0,
+                        "y": 216.0
+                    },
+                    {
+                        "x": 176.0,
+                        "y": 216.0
+                    },
+                    {
+                        "x": 176.0,
+                        "y": 236.0
+                    },
+                    {
+                        "x": 151.0,
+                        "y": 236.0
+                    }
+                ]
+            },
+            "inferText": "0g",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 43.0,
+                        "y": 239.0
+                    },
+                    {
+                        "x": 133.0,
+                        "y": 239.0
+                    },
+                    {
+                        "x": 133.0,
+                        "y": 261.0
+                    },
+                    {
+                        "x": 43.0,
+                        "y": 261.0
+                    }
+                ]
+            },
+            "inferText": "트랜스 지방",
+            "inferConfidence": 0.9996,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 152.0,
+                        "y": 240.0
+                    },
+                    {
+                        "x": 176.0,
+                        "y": 240.0
+                    },
+                    {
+                        "x": 176.0,
+                        "y": 259.0
+                    },
+                    {
+                        "x": 152.0,
+                        "y": 259.0
+                    }
+                ]
+            },
+            "inferText": "0g",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 11.0,
+                        "y": 264.0
+                    },
+                    {
+                        "x": 96.0,
+                        "y": 264.0
+                    },
+                    {
+                        "x": 96.0,
+                        "y": 286.0
+                    },
+                    {
+                        "x": 11.0,
+                        "y": 286.0
+                    }
+                ]
+            },
+            "inferText": "콜레스테롤",
+            "inferConfidence": 0.9998,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 138.0,
+                        "y": 265.0
+                    },
+                    {
+                        "x": 175.0,
+                        "y": 267.0
+                    },
+                    {
+                        "x": 175.0,
+                        "y": 284.0
+                    },
+                    {
+                        "x": 138.0,
+                        "y": 282.0
+                    }
+                ]
+            },
+            "inferText": "0mg",
+            "inferConfidence": 0.9989,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 264.0,
+                        "y": 265.0
+                    },
+                    {
+                        "x": 292.0,
+                        "y": 265.0
+                    },
+                    {
+                        "x": 292.0,
+                        "y": 283.0
+                    },
+                    {
+                        "x": 264.0,
+                        "y": 283.0
+                    }
+                ]
+            },
+            "inferText": "0%",
+            "inferConfidence": 0.9997,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 11.0,
+                        "y": 288.0
+                    },
+                    {
+                        "x": 64.0,
+                        "y": 288.0
+                    },
+                    {
+                        "x": 64.0,
+                        "y": 311.0
+                    },
+                    {
+                        "x": 11.0,
+                        "y": 311.0
+                    }
+                ]
+            },
+            "inferText": "나트륨",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 123.0,
+                        "y": 289.0
+                    },
+                    {
+                        "x": 175.0,
+                        "y": 291.0
+                    },
+                    {
+                        "x": 175.0,
+                        "y": 309.0
+                    },
+                    {
+                        "x": 122.0,
+                        "y": 307.0
+                    }
+                ]
+            },
+            "inferText": "700mg",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 254.0,
+                        "y": 289.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 289.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 307.0
+                    },
+                    {
+                        "x": 254.0,
+                        "y": 307.0
+                    }
+                ]
+            },
+            "inferText": "20%",
+            "inferConfidence": 0.9999,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 11.0,
+                        "y": 313.0
+                    },
+                    {
+                        "x": 76.0,
+                        "y": 313.0
+                    },
+                    {
+                        "x": 76.0,
+                        "y": 335.0
+                    },
+                    {
+                        "x": 11.0,
+                        "y": 335.0
+                    }
+                ]
+            },
+            "inferText": "비타민A",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 124.0,
+                        "y": 314.0
+                    },
+                    {
+                        "x": 190.0,
+                        "y": 314.0
+                    },
+                    {
+                        "x": 190.0,
+                        "y": 332.0
+                    },
+                    {
+                        "x": 124.0,
+                        "y": 332.0
+                    }
+                ]
+            },
+            "inferText": "448ugRE",
+            "inferConfidence": 0.997,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 254.0,
+                        "y": 314.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 314.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 332.0
+                    },
+                    {
+                        "x": 254.0,
+                        "y": 332.0
+                    }
+                ]
+            },
+            "inferText": "64%",
+            "inferConfidence": 0.9955,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 11.0,
+                        "y": 338.0
+                    },
+                    {
+                        "x": 79.0,
+                        "y": 338.0
+                    },
+                    {
+                        "x": 79.0,
+                        "y": 359.0
+                    },
+                    {
+                        "x": 11.0,
+                        "y": 359.0
+                    }
+                ]
+            },
+            "inferText": "비타민B1",
+            "inferConfidence": 0.9998,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 141.0,
+                        "y": 339.0
+                    },
+                    {
+                        "x": 190.0,
+                        "y": 340.0
+                    },
+                    {
+                        "x": 190.0,
+                        "y": 358.0
+                    },
+                    {
+                        "x": 140.0,
+                        "y": 357.0
+                    }
+                ]
+            },
+            "inferText": "0.7mg",
+            "inferConfidence": 0.9999,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 255.0,
+                        "y": 339.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 339.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 357.0
+                    },
+                    {
+                        "x": 255.0,
+                        "y": 357.0
+                    }
+                ]
+            },
+            "inferText": "70%",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 11.0,
+                        "y": 362.0
+                    },
+                    {
+                        "x": 80.0,
+                        "y": 362.0
+                    },
+                    {
+                        "x": 80.0,
+                        "y": 384.0
+                    },
+                    {
+                        "x": 11.0,
+                        "y": 384.0
+                    }
+                ]
+            },
+            "inferText": "비타민B2",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 141.0,
+                        "y": 363.0
+                    },
+                    {
+                        "x": 190.0,
+                        "y": 365.0
+                    },
+                    {
+                        "x": 189.0,
+                        "y": 382.0
+                    },
+                    {
+                        "x": 140.0,
+                        "y": 381.0
+                    }
+                ]
+            },
+            "inferText": "0.8mg",
+            "inferConfidence": 0.9996,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 255.0,
+                        "y": 363.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 363.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 381.0
+                    },
+                    {
+                        "x": 255.0,
+                        "y": 381.0
+                    }
+                ]
+            },
+            "inferText": "67%",
+            "inferConfidence": 0.9955,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 11.0,
+                        "y": 386.0
+                    },
+                    {
+                        "x": 75.0,
+                        "y": 386.0
+                    },
+                    {
+                        "x": 75.0,
+                        "y": 409.0
+                    },
+                    {
+                        "x": 11.0,
+                        "y": 409.0
+                    }
+                ]
+            },
+            "inferText": "비타민C",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 137.0,
+                        "y": 388.0
+                    },
+                    {
+                        "x": 190.0,
+                        "y": 390.0
+                    },
+                    {
+                        "x": 189.0,
+                        "y": 407.0
+                    },
+                    {
+                        "x": 137.0,
+                        "y": 405.0
+                    }
+                ]
+            },
+            "inferText": "400mg",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 244.0,
+                        "y": 388.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 388.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 406.0
+                    },
+                    {
+                        "x": 244.0,
+                        "y": 406.0
+                    }
+                ]
+            },
+            "inferText": "400%",
+            "inferConfidence": 0.9995,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 10.0,
+                        "y": 411.0
+                    },
+                    {
+                        "x": 49.0,
+                        "y": 411.0
+                    },
+                    {
+                        "x": 49.0,
+                        "y": 434.0
+                    },
+                    {
+                        "x": 10.0,
+                        "y": 434.0
+                    }
+                ]
+            },
+            "inferText": "엽산",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 148.0,
+                        "y": 412.0
+                    },
+                    {
+                        "x": 191.0,
+                        "y": 414.0
+                    },
+                    {
+                        "x": 190.0,
+                        "y": 431.0
+                    },
+                    {
+                        "x": 147.0,
+                        "y": 429.0
+                    }
+                ]
+            },
+            "inferText": "160ug",
+            "inferConfidence": 0.9981,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 254.0,
+                        "y": 413.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 413.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 430.0
+                    },
+                    {
+                        "x": 254.0,
+                        "y": 430.0
+                    }
+                ]
+            },
+            "inferText": "64%",
+            "inferConfidence": 0.9984,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 11.0,
+                        "y": 436.0
+                    },
+                    {
+                        "x": 50.0,
+                        "y": 436.0
+                    },
+                    {
+                        "x": 50.0,
+                        "y": 459.0
+                    },
+                    {
+                        "x": 11.0,
+                        "y": 459.0
+                    }
+                ]
+            },
+            "inferText": "칼슘",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 147.0,
+                        "y": 437.0
+                    },
+                    {
+                        "x": 189.0,
+                        "y": 439.0
+                    },
+                    {
+                        "x": 189.0,
+                        "y": 456.0
+                    },
+                    {
+                        "x": 146.0,
+                        "y": 454.0
+                    }
+                ]
+            },
+            "inferText": "10mg",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 251.0,
+                        "y": 438.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 438.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 456.0
+                    },
+                    {
+                        "x": 251.0,
+                        "y": 456.0
+                    }
+                ]
+            },
+            "inferText": "1.4%",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 11.0,
+                        "y": 460.0
+                    },
+                    {
+                        "x": 48.0,
+                        "y": 460.0
+                    },
+                    {
+                        "x": 48.0,
+                        "y": 483.0
+                    },
+                    {
+                        "x": 11.0,
+                        "y": 483.0
+                    }
+                ]
+            },
+            "inferText": "아연",
+            "inferConfidence": 0.9999,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 141.0,
+                        "y": 462.0
+                    },
+                    {
+                        "x": 190.0,
+                        "y": 463.0
+                    },
+                    {
+                        "x": 189.0,
+                        "y": 480.0
+                    },
+                    {
+                        "x": 140.0,
+                        "y": 479.0
+                    }
+                ]
+            },
+            "inferText": "3.6mg",
+            "inferConfidence": 0.9975,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 250.0,
+                        "y": 463.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 463.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 480.0
+                    },
+                    {
+                        "x": 250.0,
+                        "y": 480.0
+                    }
+                ]
+            },
+            "inferText": "2.2%",
+            "inferConfidence": 0.9997,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 10.0,
+                        "y": 485.0
+                    },
+                    {
+                        "x": 32.0,
+                        "y": 485.0
+                    },
+                    {
+                        "x": 32.0,
+                        "y": 507.0
+                    },
+                    {
+                        "x": 10.0,
+                        "y": 507.0
+                    }
+                ]
+            },
+            "inferText": "철",
+            "inferConfidence": 0.9998,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 141.0,
+                        "y": 486.0
+                    },
+                    {
+                        "x": 189.0,
+                        "y": 488.0
+                    },
+                    {
+                        "x": 189.0,
+                        "y": 505.0
+                    },
+                    {
+                        "x": 140.0,
+                        "y": 503.0
+                    }
+                ]
+            },
+            "inferText": "4.5mg",
+            "inferConfidence": 0.942,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 255.0,
+                        "y": 486.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 487.0
+                    },
+                    {
+                        "x": 293.0,
+                        "y": 505.0
+                    },
+                    {
+                        "x": 254.0,
+                        "y": 504.0
+                    }
+                ]
+            },
+            "inferText": "30%",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": true
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 37.0,
+                        "y": 515.0
+                    },
+                    {
+                        "x": 78.0,
+                        "y": 515.0
+                    },
+                    {
+                        "x": 78.0,
+                        "y": 534.0
+                    },
+                    {
+                        "x": 37.0,
+                        "y": 534.0
+                    }
+                ]
+            },
+            "inferText": "영양소",
+            "inferConfidence": 0.9979,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 77.0,
+                        "y": 515.0
+                    },
+                    {
+                        "x": 185.0,
+                        "y": 515.0
+                    },
+                    {
+                        "x": 185.0,
+                        "y": 534.0
+                    },
+                    {
+                        "x": 77.0,
+                        "y": 534.0
+                    }
+                ]
+            },
+            "inferText": "기준치:1일 영양소",
+            "inferConfidence": 0.9609,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 185.0,
+                        "y": 514.0
+                    },
+                    {
+                        "x": 239.0,
+                        "y": 514.0
+                    },
+                    {
+                        "x": 239.0,
+                        "y": 534.0
+                    },
+                    {
+                        "x": 185.0,
+                        "y": 534.0
+                    }
+                ]
+            },
+            "inferText": "기준치에",
+            "inferConfidence": 1.0,
+            "type": "NORMAL",
+            "lineBreak": false
+        },
+        {
+            "valueType": "ALL",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 237.0,
+                        "y": 515.0
+                    },
+                    {
+                        "x": 295.0,
+                        "y": 515.0
+                    },
+                    {
+                        "x": 295.0,
+                        "y": 534.0
+                    },
+                    {
+                        "x": 237.0,
+                        "y": 534.0
+                    }
+                ]
+            },
+            "inferText": "대한비율",
+            "inferConfidence": 0.9793,
+            "type": "NORMAL",
+            "lineBreak": true
+        }
+    ]
+}

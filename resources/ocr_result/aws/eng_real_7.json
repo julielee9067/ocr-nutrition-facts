@@ -1,0 +1,394 @@
+{
+    "fields": [
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "alamy"
+        },
+        {
+            "inferText": "Nutrition Facts"
+        },
+        {
+            "inferText": "a Valeur nutritive"
+        },
+        {
+            "inferText": "Amount % Daily Value U"
+        },
+        {
+            "inferText": "Per 1/2 cup (125 mL) par 1/2 tasse (125 mL)"
+        },
+        {
+            "inferText": "OR Teneur % valeur quotidienne"
+        },
+        {
+            "inferText": "Calories Calories 130"
+        },
+        {
+            "inferText": "Fat Lipides 1 g 1%"
+        },
+        {
+            "inferText": "Saturated satures 0.1 g"
+        },
+        {
+            "inferText": "Trans trans 1%"
+        },
+        {
+            "inferText": "a Sodium/ Sodium 430 mg Har"
+        },
+        {
+            "inferText": "Cholesterol Cholesterol 0 0%"
+        },
+        {
+            "inferText": "Carbohydrate mg 18 alamy"
+        },
+        {
+            "inferText": "Glucides 23 8"
+        },
+        {
+            "inferText": "Fibre Fibres g 25"
+        },
+        {
+            "inferText": "a Sugars Sucres g"
+        },
+        {
+            "inferText": "Protein Proteines 9 g a"
+        },
+        {
+            "inferText": "Vitamin A Vitamine 0%"
+        },
+        {
+            "inferText": "Vitamin c A"
+        },
+        {
+            "inferText": "Calcium Vitamine C 0%"
+        },
+        {
+            "inferText": "Calcium 4% a"
+        },
+        {
+            "inferText": "Iron Fer 15"
+        },
+        {
+            "inferText": "JUGGESTED a alamy"
+        },
+        {
+            "inferText": "SEPVING"
+        },
+        {
+            "inferText": "19fl oz"
+        },
+        {
+            "inferText": "0 67800 00252 8"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "alamy"
+        },
+        {
+            "inferText": "Nutrition"
+        },
+        {
+            "inferText": "Facts"
+        },
+        {
+            "inferText": "Valeur"
+        },
+        {
+            "inferText": "nutritive"
+        },
+        {
+            "inferText": "U"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "Per"
+        },
+        {
+            "inferText": "1/2"
+        },
+        {
+            "inferText": "cup"
+        },
+        {
+            "inferText": "(125"
+        },
+        {
+            "inferText": "mL)"
+        },
+        {
+            "inferText": "par"
+        },
+        {
+            "inferText": "1/2"
+        },
+        {
+            "inferText": "tasse"
+        },
+        {
+            "inferText": "(125"
+        },
+        {
+            "inferText": "mL)"
+        },
+        {
+            "inferText": "Amount"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Daily"
+        },
+        {
+            "inferText": "Value"
+        },
+        {
+            "inferText": "OR"
+        },
+        {
+            "inferText": "Teneur"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "valeur"
+        },
+        {
+            "inferText": "quotidienne"
+        },
+        {
+            "inferText": "Calories"
+        },
+        {
+            "inferText": "Calories"
+        },
+        {
+            "inferText": "130"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "Lipides"
+        },
+        {
+            "inferText": "1"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "1%"
+        },
+        {
+            "inferText": "Saturated"
+        },
+        {
+            "inferText": "satures"
+        },
+        {
+            "inferText": "0.1"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "1%"
+        },
+        {
+            "inferText": "Trans"
+        },
+        {
+            "inferText": "trans"
+        },
+        {
+            "inferText": "Cholesterol"
+        },
+        {
+            "inferText": "Cholesterol"
+        },
+        {
+            "inferText": "0"
+        },
+        {
+            "inferText": "mg"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "Sodium/"
+        },
+        {
+            "inferText": "Sodium"
+        },
+        {
+            "inferText": "430"
+        },
+        {
+            "inferText": "mg"
+        },
+        {
+            "inferText": "18"
+        },
+        {
+            "inferText": "Har"
+        },
+        {
+            "inferText": "Carbohydrate"
+        },
+        {
+            "inferText": "Glucides"
+        },
+        {
+            "inferText": "23"
+        },
+        {
+            "inferText": "8"
+        },
+        {
+            "inferText": "alamy"
+        },
+        {
+            "inferText": "Fibre"
+        },
+        {
+            "inferText": "Fibres"
+        },
+        {
+            "inferText": "25"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "Sugars"
+        },
+        {
+            "inferText": "Sucres"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "Protein"
+        },
+        {
+            "inferText": "Proteines"
+        },
+        {
+            "inferText": "9"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "Vitamin"
+        },
+        {
+            "inferText": "A"
+        },
+        {
+            "inferText": "Vitamine"
+        },
+        {
+            "inferText": "A"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "Vitamin"
+        },
+        {
+            "inferText": "c"
+        },
+        {
+            "inferText": "Vitamine"
+        },
+        {
+            "inferText": "C"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "Calcium"
+        },
+        {
+            "inferText": "Calcium"
+        },
+        {
+            "inferText": "4%"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "Iron"
+        },
+        {
+            "inferText": "Fer"
+        },
+        {
+            "inferText": "15"
+        },
+        {
+            "inferText": "JUGGESTED"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "SEPVING"
+        },
+        {
+            "inferText": "19fl oz"
+        },
+        {
+            "inferText": "alamy"
+        },
+        {
+            "inferText": "0"
+        },
+        {
+            "inferText": "67800 00252"
+        },
+        {
+            "inferText": "8"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "a"
+        }
+    ]
+}

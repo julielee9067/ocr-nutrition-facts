@@ -1,0 +1,19 @@
+repos:
+  - repo: https://gitlab.com/pycqa/flake8
+    rev: 3.7.9
+    hooks:
+      - id: flake8
+  - repo: https://github.com/psf/black
+    rev: 20.8b1
+    hooks:
+      - id: black
+        exclude: ^lib/
+  - repo: https://github.com/asottile/seed-isort-config
+    rev: v1.9.4
+    hooks:
+      - id: seed-isort-config
+  - repo: https://github.com/pre-commit/mirrors-isort
+    rev: v4.3.21
+    hooks:
+      - id: isort
+        exclude: ^main.py, ^text_detection/ocr_runner.py, ^text_detection/imgproc.py, ^text_detection/craft_utils.py, ^text_detection/lib/text_connector/detectors.py

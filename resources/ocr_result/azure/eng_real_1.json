@@ -1,0 +1,1108 @@
+{
+    "fields": [
+        {
+            "inferText": "whole grain per serving.",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1674.0,
+                        "y": 0.0
+                    },
+                    {
+                        "x": 2057.0,
+                        "y": 56.0
+                    },
+                    {
+                        "x": 2048.0,
+                        "y": 105.0
+                    },
+                    {
+                        "x": 1666.0,
+                        "y": 35.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "At least 48g recommended daily.",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1559.0,
+                        "y": 9.0
+                    },
+                    {
+                        "x": 2081.0,
+                        "y": 108.0
+                    },
+                    {
+                        "x": 2071.0,
+                        "y": 157.0
+                    },
+                    {
+                        "x": 1549.0,
+                        "y": 60.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Nutrition Facts",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1560.0,
+                        "y": 98.0
+                    },
+                    {
+                        "x": 2070.0,
+                        "y": 179.0
+                    },
+                    {
+                        "x": 2058.0,
+                        "y": 252.0
+                    },
+                    {
+                        "x": 1548.0,
+                        "y": 174.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Serving Size 1 bar (35g)",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1556.0,
+                        "y": 176.0
+                    },
+                    {
+                        "x": 1982.0,
+                        "y": 238.0
+                    },
+                    {
+                        "x": 1974.0,
+                        "y": 289.0
+                    },
+                    {
+                        "x": 1549.0,
+                        "y": 227.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Servings Per Container 6",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1552.0,
+                        "y": 232.0
+                    },
+                    {
+                        "x": 1997.0,
+                        "y": 288.0
+                    },
+                    {
+                        "x": 1991.0,
+                        "y": 338.0
+                    },
+                    {
+                        "x": 1547.0,
+                        "y": 279.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "TURE VALLEY",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 878.0,
+                        "y": 337.0
+                    },
+                    {
+                        "x": 1332.0,
+                        "y": 148.0
+                    },
+                    {
+                        "x": 1443.0,
+                        "y": 398.0
+                    },
+                    {
+                        "x": 985.0,
+                        "y": 594.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Amount Per Serving",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1556.0,
+                        "y": 339.0
+                    },
+                    {
+                        "x": 1817.0,
+                        "y": 367.0
+                    },
+                    {
+                        "x": 1812.0,
+                        "y": 409.0
+                    },
+                    {
+                        "x": 1551.0,
+                        "y": 379.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Calories 160 Calories from Fat 60",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1552.0,
+                        "y": 392.0
+                    },
+                    {
+                        "x": 2064.0,
+                        "y": 443.0
+                    },
+                    {
+                        "x": 2060.0,
+                        "y": 492.0
+                    },
+                    {
+                        "x": 1547.0,
+                        "y": 441.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Total Fat 7g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1557.0,
+                        "y": 529.0
+                    },
+                    {
+                        "x": 1782.0,
+                        "y": 546.0
+                    },
+                    {
+                        "x": 1777.0,
+                        "y": 598.0
+                    },
+                    {
+                        "x": 1553.0,
+                        "y": 579.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "% Daily Value*",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1873.0,
+                        "y": 502.0
+                    },
+                    {
+                        "x": 2064.0,
+                        "y": 517.0
+                    },
+                    {
+                        "x": 2061.0,
+                        "y": 556.0
+                    },
+                    {
+                        "x": 1871.0,
+                        "y": 541.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Saturated Fat 2g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1573.0,
+                        "y": 596.0
+                    },
+                    {
+                        "x": 1848.0,
+                        "y": 614.0
+                    },
+                    {
+                        "x": 1844.0,
+                        "y": 665.0
+                    },
+                    {
+                        "x": 1570.0,
+                        "y": 646.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "11%",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1984.0,
+                        "y": 565.0
+                    },
+                    {
+                        "x": 2062.0,
+                        "y": 570.0
+                    },
+                    {
+                        "x": 2059.0,
+                        "y": 613.0
+                    },
+                    {
+                        "x": 1982.0,
+                        "y": 607.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Trans Fat 0g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1576.0,
+                        "y": 661.0
+                    },
+                    {
+                        "x": 1784.0,
+                        "y": 672.0
+                    },
+                    {
+                        "x": 1781.0,
+                        "y": 725.0
+                    },
+                    {
+                        "x": 1573.0,
+                        "y": 713.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "10%",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1986.0,
+                        "y": 626.0
+                    },
+                    {
+                        "x": 2051.0,
+                        "y": 629.0
+                    },
+                    {
+                        "x": 2048.0,
+                        "y": 670.0
+                    },
+                    {
+                        "x": 1983.0,
+                        "y": 666.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Oatmeal",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 898.0,
+                        "y": 720.0
+                    },
+                    {
+                        "x": 1279.0,
+                        "y": 718.0
+                    },
+                    {
+                        "x": 1281.0,
+                        "y": 910.0
+                    },
+                    {
+                        "x": 897.0,
+                        "y": 904.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Cholesterol 15mg",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1552.0,
+                        "y": 726.0
+                    },
+                    {
+                        "x": 1872.0,
+                        "y": 737.0
+                    },
+                    {
+                        "x": 1870.0,
+                        "y": 789.0
+                    },
+                    {
+                        "x": 1550.0,
+                        "y": 776.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "5%",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 2012.0,
+                        "y": 743.0
+                    },
+                    {
+                        "x": 2058.0,
+                        "y": 747.0
+                    },
+                    {
+                        "x": 2055.0,
+                        "y": 789.0
+                    },
+                    {
+                        "x": 2009.0,
+                        "y": 785.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Sodium 150mg",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1549.0,
+                        "y": 789.0
+                    },
+                    {
+                        "x": 1821.0,
+                        "y": 798.0
+                    },
+                    {
+                        "x": 1819.0,
+                        "y": 848.0
+                    },
+                    {
+                        "x": 1549.0,
+                        "y": 839.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "6%",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 2006.0,
+                        "y": 805.0
+                    },
+                    {
+                        "x": 2046.0,
+                        "y": 810.0
+                    },
+                    {
+                        "x": 2044.0,
+                        "y": 845.0
+                    },
+                    {
+                        "x": 2004.0,
+                        "y": 839.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Total Carbohydrate 21g 7%",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1549.0,
+                        "y": 852.0
+                    },
+                    {
+                        "x": 2052.0,
+                        "y": 860.0
+                    },
+                    {
+                        "x": 2051.0,
+                        "y": 910.0
+                    },
+                    {
+                        "x": 1548.0,
+                        "y": 903.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "SQUARES",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 998.0,
+                        "y": 909.0
+                    },
+                    {
+                        "x": 1147.0,
+                        "y": 918.0
+                    },
+                    {
+                        "x": 1142.0,
+                        "y": 983.0
+                    },
+                    {
+                        "x": 992.0,
+                        "y": 970.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Dietary Fiber 2g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1569.0,
+                        "y": 917.0
+                    },
+                    {
+                        "x": 1827.0,
+                        "y": 921.0
+                    },
+                    {
+                        "x": 1826.0,
+                        "y": 973.0
+                    },
+                    {
+                        "x": 1568.0,
+                        "y": 968.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "9%",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1998.0,
+                        "y": 921.0
+                    },
+                    {
+                        "x": 2046.0,
+                        "y": 924.0
+                    },
+                    {
+                        "x": 2045.0,
+                        "y": 963.0
+                    },
+                    {
+                        "x": 1996.0,
+                        "y": 960.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Sugars 9g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1565.0,
+                        "y": 981.0
+                    },
+                    {
+                        "x": 1740.0,
+                        "y": 982.0
+                    },
+                    {
+                        "x": 1739.0,
+                        "y": 1034.0
+                    },
+                    {
+                        "x": 1565.0,
+                        "y": 1032.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Protein 3g",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1536.0,
+                        "y": 1040.0
+                    },
+                    {
+                        "x": 1742.0,
+                        "y": 1043.0
+                    },
+                    {
+                        "x": 1742.0,
+                        "y": 1094.0
+                    },
+                    {
+                        "x": 1535.0,
+                        "y": 1091.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Iron",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1537.0,
+                        "y": 1157.0
+                    },
+                    {
+                        "x": 1625.0,
+                        "y": 1156.0
+                    },
+                    {
+                        "x": 1626.0,
+                        "y": 1194.0
+                    },
+                    {
+                        "x": 1537.0,
+                        "y": 1195.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "4%",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1985.0,
+                        "y": 1134.0
+                    },
+                    {
+                        "x": 2046.0,
+                        "y": 1138.0
+                    },
+                    {
+                        "x": 2045.0,
+                        "y": 1176.0
+                    },
+                    {
+                        "x": 1985.0,
+                        "y": 1173.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Not a significant source of vitamin A, vitamin C and calcium.",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1534.0,
+                        "y": 1209.0
+                    },
+                    {
+                        "x": 2035.0,
+                        "y": 1186.0
+                    },
+                    {
+                        "x": 2037.0,
+                        "y": 1223.0
+                    },
+                    {
+                        "x": 1536.0,
+                        "y": 1246.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "* Percent Daily Values are based on a 2,000 calorie diet.",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1542.0,
+                        "y": 1257.0
+                    },
+                    {
+                        "x": 2005.0,
+                        "y": 1234.0
+                    },
+                    {
+                        "x": 2006.0,
+                        "y": 1273.0
+                    },
+                    {
+                        "x": 1544.0,
+                        "y": 1296.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Ingredients: Whole Grain Oats, Whole",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1525.0,
+                        "y": 1325.0
+                    },
+                    {
+                        "x": 2000.0,
+                        "y": 1294.0
+                    },
+                    {
+                        "x": 2001.0,
+                        "y": 1339.0
+                    },
+                    {
+                        "x": 1528.0,
+                        "y": 1371.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Wheat Flour, Peanut Butter Flavored",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1531.0,
+                        "y": 1373.0
+                    },
+                    {
+                        "x": 1990.0,
+                        "y": 1341.0
+                    },
+                    {
+                        "x": 1993.0,
+                        "y": 1390.0
+                    },
+                    {
+                        "x": 1535.0,
+                        "y": 1422.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Chips (sugar, palm kernel and palm oil,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1528.0,
+                        "y": 1427.0
+                    },
+                    {
+                        "x": 1985.0,
+                        "y": 1392.0
+                    },
+                    {
+                        "x": 1989.0,
+                        "y": 1438.0
+                    },
+                    {
+                        "x": 1532.0,
+                        "y": 1476.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "partially defatted peanut flour, nonfat milk,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1526.0,
+                        "y": 1479.0
+                    },
+                    {
+                        "x": 2005.0,
+                        "y": 1434.0
+                    },
+                    {
+                        "x": 2010.0,
+                        "y": 1481.0
+                    },
+                    {
+                        "x": 1531.0,
+                        "y": 1527.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "whey, peanut butter [peanuts], salt, soy",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1526.0,
+                        "y": 1531.0
+                    },
+                    {
+                        "x": 1975.0,
+                        "y": 1486.0
+                    },
+                    {
+                        "x": 1980.0,
+                        "y": 1535.0
+                    },
+                    {
+                        "x": 1531.0,
+                        "y": 1580.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "lecithin), Sugar, Canola Oil, Tapioca",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1528.0,
+                        "y": 1578.0
+                    },
+                    {
+                        "x": 1962.0,
+                        "y": 1530.0
+                    },
+                    {
+                        "x": 1967.0,
+                        "y": 1579.0
+                    },
+                    {
+                        "x": 1533.0,
+                        "y": 1626.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Peanut Butter",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1111.0,
+                        "y": 1656.0
+                    },
+                    {
+                        "x": 1425.0,
+                        "y": 1982.0
+                    },
+                    {
+                        "x": 1353.0,
+                        "y": 2050.0
+                    },
+                    {
+                        "x": 1044.0,
+                        "y": 1724.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Syrup, Peanut Butter (peanuts, salt),",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1527.0,
+                        "y": 1630.0
+                    },
+                    {
+                        "x": 1966.0,
+                        "y": 1578.0
+                    },
+                    {
+                        "x": 1971.0,
+                        "y": 1625.0
+                    },
+                    {
+                        "x": 1531.0,
+                        "y": 1677.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Partially Defatted Peanut Flour, Peanut",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1523.0,
+                        "y": 1680.0
+                    },
+                    {
+                        "x": 2003.0,
+                        "y": 1617.0
+                    },
+                    {
+                        "x": 2007.0,
+                        "y": 1664.0
+                    },
+                    {
+                        "x": 1529.0,
+                        "y": 1725.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Butter Flavored Coating (sugar, palm",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1523.0,
+                        "y": 1728.0
+                    },
+                    {
+                        "x": 1973.0,
+                        "y": 1671.0
+                    },
+                    {
+                        "x": 1978.0,
+                        "y": 1719.0
+                    },
+                    {
+                        "x": 1529.0,
+                        "y": 1774.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "kernel and palm oils, partially defatted",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1519.0,
+                        "y": 1781.0
+                    },
+                    {
+                        "x": 1964.0,
+                        "y": 1715.0
+                    },
+                    {
+                        "x": 1971.0,
+                        "y": 1763.0
+                    },
+                    {
+                        "x": 1526.0,
+                        "y": 1825.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "peanut flour, peanuts, nonfat milk, whey, salt,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1521.0,
+                        "y": 1833.0
+                    },
+                    {
+                        "x": 2027.0,
+                        "y": 1748.0
+                    },
+                    {
+                        "x": 2035.0,
+                        "y": 1794.0
+                    },
+                    {
+                        "x": 1528.0,
+                        "y": 1878.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "soy lecithin), Vegetable Glycerin, Honey,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1519.0,
+                        "y": 1881.0
+                    },
+                    {
+                        "x": 1999.0,
+                        "y": 1801.0
+                    },
+                    {
+                        "x": 2007.0,
+                        "y": 1844.0
+                    },
+                    {
+                        "x": 1526.0,
+                        "y": 1927.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Chicory Root Extract, Water, Egg Yolk,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1518.0,
+                        "y": 1927.0
+                    },
+                    {
+                        "x": 1985.0,
+                        "y": 1845.0
+                    },
+                    {
+                        "x": 1993.0,
+                        "y": 1893.0
+                    },
+                    {
+                        "x": 1526.0,
+                        "y": 1974.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Molasses, Baking Soda, Salt, Egg White,",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1515.0,
+                        "y": 1976.0
+                    },
+                    {
+                        "x": 2002.0,
+                        "y": 1890.0
+                    },
+                    {
+                        "x": 2008.0,
+                        "y": 1933.0
+                    },
+                    {
+                        "x": 1522.0,
+                        "y": 2022.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "Peanut Oil, Corn Syrup, Natural Flavor.",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1517.0,
+                        "y": 2025.0
+                    },
+                    {
+                        "x": 1988.0,
+                        "y": 1934.0
+                    },
+                    {
+                        "x": 1996.0,
+                        "y": 1979.0
+                    },
+                    {
+                        "x": 1522.0,
+                        "y": 2071.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "CONTAINS WHEAT, PEANUT, EGG, MILK",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1515.0,
+                        "y": 2090.0
+                    },
+                    {
+                        "x": 2005.0,
+                        "y": 1988.0
+                    },
+                    {
+                        "x": 2012.0,
+                        "y": 2031.0
+                    },
+                    {
+                        "x": 1522.0,
+                        "y": 2135.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "ND SOY INGREDIENTS.",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1538.0,
+                        "y": 2124.0
+                    },
+                    {
+                        "x": 1823.0,
+                        "y": 2074.0
+                    },
+                    {
+                        "x": 1829.0,
+                        "y": 2120.0
+                    },
+                    {
+                        "x": 1542.0,
+                        "y": 2159.0
+                    }
+                ]
+            }
+        },
+        {
+            "inferText": "SALES, INC ., MINNEAPOLIS, MN 55440 USA",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1720.0,
+                        "y": 2131.0
+                    },
+                    {
+                        "x": 2010.0,
+                        "y": 2070.0
+                    },
+                    {
+                        "x": 2016.0,
+                        "y": 2106.0
+                    },
+                    {
+                        "x": 1722.0,
+                        "y": 2159.0
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,325 @@
+{
+    "fields": [
+        {
+            "inferText": "Nutrition Facts"
+        },
+        {
+            "inferText": "1 serving per container"
+        },
+        {
+            "inferText": "Serving Size 1 bottle (375mL)"
+        },
+        {
+            "inferText": "Amount per serving"
+        },
+        {
+            "inferText": "Calories 170"
+        },
+        {
+            "inferText": "Daily Value*"
+        },
+        {
+            "inferText": "Total Fat 0g 0%"
+        },
+        {
+            "inferText": "Sodium 41mg 2%"
+        },
+        {
+            "inferText": "Total Carbohydrate 40g 15%"
+        },
+        {
+            "inferText": "Total Sugars 40g"
+        },
+        {
+            "inferText": "includes 40g Added Sugars 80%"
+        },
+        {
+            "inferText": "Protein 0g 0%"
+        },
+        {
+            "inferText": "The Daily Value DM tells YOU how much a nutrent"
+        },
+        {
+            "inferText": "serving of food contitudes to 3 daily der 2,000"
+        },
+        {
+            "inferText": "carries 1 day is sed to general sutrition advice"
+        },
+        {
+            "inferText": "FOR BEST REFORE SEE NECK DE BOTTLE"
+        },
+        {
+            "inferText": "to"
+        },
+        {
+            "inferText": "WV"
+        },
+        {
+            "inferText": "1c CA CRV"
+        },
+        {
+            "inferText": "and"
+        },
+        {
+            "inferText": "CT, HI, IA, MA, ME. NY, VT5c. M"
+        },
+        {
+            "inferText": "Nutrition"
+        },
+        {
+            "inferText": "Facts"
+        },
+        {
+            "inferText": "1"
+        },
+        {
+            "inferText": "serving"
+        },
+        {
+            "inferText": "per"
+        },
+        {
+            "inferText": "container"
+        },
+        {
+            "inferText": "Serving"
+        },
+        {
+            "inferText": "Size"
+        },
+        {
+            "inferText": "1"
+        },
+        {
+            "inferText": "bottle"
+        },
+        {
+            "inferText": "(375mL)"
+        },
+        {
+            "inferText": "Amount"
+        },
+        {
+            "inferText": "per"
+        },
+        {
+            "inferText": "serving"
+        },
+        {
+            "inferText": "Calories"
+        },
+        {
+            "inferText": "170"
+        },
+        {
+            "inferText": "Daily"
+        },
+        {
+            "inferText": "Value*"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "0g"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "Sodium"
+        },
+        {
+            "inferText": "41mg"
+        },
+        {
+            "inferText": "2%"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Carbohydrate"
+        },
+        {
+            "inferText": "40g"
+        },
+        {
+            "inferText": "15%"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Sugars"
+        },
+        {
+            "inferText": "40g"
+        },
+        {
+            "inferText": "includes"
+        },
+        {
+            "inferText": "40g"
+        },
+        {
+            "inferText": "Added"
+        },
+        {
+            "inferText": "Sugars"
+        },
+        {
+            "inferText": "80%"
+        },
+        {
+            "inferText": "Protein"
+        },
+        {
+            "inferText": "0g"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "The"
+        },
+        {
+            "inferText": "Daily"
+        },
+        {
+            "inferText": "Value"
+        },
+        {
+            "inferText": "DM"
+        },
+        {
+            "inferText": "tells"
+        },
+        {
+            "inferText": "YOU"
+        },
+        {
+            "inferText": "how"
+        },
+        {
+            "inferText": "much"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "nutrent"
+        },
+        {
+            "inferText": "serving"
+        },
+        {
+            "inferText": "of"
+        },
+        {
+            "inferText": "food"
+        },
+        {
+            "inferText": "contitudes"
+        },
+        {
+            "inferText": "to"
+        },
+        {
+            "inferText": "3"
+        },
+        {
+            "inferText": "daily"
+        },
+        {
+            "inferText": "der"
+        },
+        {
+            "inferText": "2,000"
+        },
+        {
+            "inferText": "carries 1"
+        },
+        {
+            "inferText": "day"
+        },
+        {
+            "inferText": "is"
+        },
+        {
+            "inferText": "sed"
+        },
+        {
+            "inferText": "to"
+        },
+        {
+            "inferText": "general"
+        },
+        {
+            "inferText": "sutrition"
+        },
+        {
+            "inferText": "advice"
+        },
+        {
+            "inferText": "FOR"
+        },
+        {
+            "inferText": "BEST REFORE"
+        },
+        {
+            "inferText": "SEE"
+        },
+        {
+            "inferText": "NECK DE"
+        },
+        {
+            "inferText": "BOTTLE"
+        },
+        {
+            "inferText": "WV"
+        },
+        {
+            "inferText": "1c"
+        },
+        {
+            "inferText": "CA"
+        },
+        {
+            "inferText": "CRV"
+        },
+        {
+            "inferText": "to"
+        },
+        {
+            "inferText": "and"
+        },
+        {
+            "inferText": "CT,"
+        },
+        {
+            "inferText": "HI,"
+        },
+        {
+            "inferText": "IA,"
+        },
+        {
+            "inferText": "MA,"
+        },
+        {
+            "inferText": "ME."
+        },
+        {
+            "inferText": "NY,"
+        },
+        {
+            "inferText": "VT5c."
+        },
+        {
+            "inferText": "M"
+        }
+    ]
+}

@@ -1,0 +1,262 @@
+{
+    "fields": [
+        {
+            "inferText": "Nutrition Facts"
+        },
+        {
+            "inferText": "Serving Size 1 bar (2 lbs)"
+        },
+        {
+            "inferText": "Servings Per Package 1"
+        },
+        {
+            "inferText": "Amount % Daily Value"
+        },
+        {
+            "inferText": "Calories 4600"
+        },
+        {
+            "inferText": "Fat 260 400 %"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "Saturated 160 g 800 %"
+        },
+        {
+            "inferText": "Trans 0 g"
+        },
+        {
+            "inferText": "Cholesterol 200 120 %"
+        },
+        {
+            "inferText": "mg"
+        },
+        {
+            "inferText": "Sodium 1400 mg 40 %"
+        },
+        {
+            "inferText": "Carbohydrate 960 g 320%"
+        },
+        {
+            "inferText": "Dietary Fiber 40 g"
+        },
+        {
+            "inferText": "Sugars 840"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "Protein 120 g"
+        },
+        {
+            "inferText": "Vitamin A 0 % Vitamin C 0%"
+        },
+        {
+            "inferText": "Calcium 320 % Iron 80 %"
+        },
+        {
+            "inferText": "Nutrition"
+        },
+        {
+            "inferText": "Facts"
+        },
+        {
+            "inferText": "Serving"
+        },
+        {
+            "inferText": "Size"
+        },
+        {
+            "inferText": "1"
+        },
+        {
+            "inferText": "bar"
+        },
+        {
+            "inferText": "(2"
+        },
+        {
+            "inferText": "lbs)"
+        },
+        {
+            "inferText": "Servings"
+        },
+        {
+            "inferText": "Per"
+        },
+        {
+            "inferText": "Package"
+        },
+        {
+            "inferText": "1"
+        },
+        {
+            "inferText": "Amount"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Daily"
+        },
+        {
+            "inferText": "Value"
+        },
+        {
+            "inferText": "Calories"
+        },
+        {
+            "inferText": "4600"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "260"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "400"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Saturated"
+        },
+        {
+            "inferText": "160"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "800"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Trans"
+        },
+        {
+            "inferText": "0 g"
+        },
+        {
+            "inferText": "Cholesterol"
+        },
+        {
+            "inferText": "200"
+        },
+        {
+            "inferText": "mg"
+        },
+        {
+            "inferText": "120"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Sodium"
+        },
+        {
+            "inferText": "1400"
+        },
+        {
+            "inferText": "mg"
+        },
+        {
+            "inferText": "40"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Carbohydrate"
+        },
+        {
+            "inferText": "960"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "320%"
+        },
+        {
+            "inferText": "Dietary"
+        },
+        {
+            "inferText": "Fiber"
+        },
+        {
+            "inferText": "40"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "Sugars"
+        },
+        {
+            "inferText": "840"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "Protein"
+        },
+        {
+            "inferText": "120"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "Vitamin"
+        },
+        {
+            "inferText": "A"
+        },
+        {
+            "inferText": "0"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Vitamin"
+        },
+        {
+            "inferText": "C"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "Calcium"
+        },
+        {
+            "inferText": "320"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Iron"
+        },
+        {
+            "inferText": "80"
+        },
+        {
+            "inferText": "%"
+        }
+    ]
+}

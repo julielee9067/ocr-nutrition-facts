@@ -1,0 +1,316 @@
+{
+    "fields": [
+        {
+            "inferText": "Nutrition Facts"
+        },
+        {
+            "inferText": "Per 1 cup (122"
+        },
+        {
+            "inferText": "Calories 140"
+        },
+        {
+            "inferText": "% Daily Value \""
+        },
+        {
+            "inferText": "Fat 8g 11 %"
+        },
+        {
+            "inferText": "Saturated 3g 3 15 %"
+        },
+        {
+            "inferText": ". Trans 0 0 g"
+        },
+        {
+            "inferText": "Carbohydrate 19 g"
+        },
+        {
+            "inferText": "Fibre 2 g 7 %"
+        },
+        {
+            "inferText": "Sugars 14 g 14 %"
+        },
+        {
+            "inferText": "Protein 2 2g"
+        },
+        {
+            "inferText": "Cholesterol 0 mg"
+        },
+        {
+            "inferText": "Sodium 5 mg %"
+        },
+        {
+            "inferText": "1"
+        },
+        {
+            "inferText": "Potassium 200 mg 4 %"
+        },
+        {
+            "inferText": "Calcium 20 mg"
+        },
+        {
+            "inferText": "2%"
+        },
+        {
+            "inferText": "Iron 0.5 mg"
+        },
+        {
+            "inferText": "3%"
+        },
+        {
+            "inferText": "Thiamine 0.05 4 %"
+        },
+        {
+            "inferText": "mg"
+        },
+        {
+            "inferText": "Riboflavin 0.05 mg 4 %"
+        },
+        {
+            "inferText": "5% or less is a little. 15% or more is a lot"
+        },
+        {
+            "inferText": "Nutrition"
+        },
+        {
+            "inferText": "Facts"
+        },
+        {
+            "inferText": "Per"
+        },
+        {
+            "inferText": "1"
+        },
+        {
+            "inferText": "cup"
+        },
+        {
+            "inferText": "(122"
+        },
+        {
+            "inferText": "Calories"
+        },
+        {
+            "inferText": "140"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Daily"
+        },
+        {
+            "inferText": "Value \""
+        },
+        {
+            "inferText": "Fat 8g"
+        },
+        {
+            "inferText": "11"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Saturated"
+        },
+        {
+            "inferText": "3g"
+        },
+        {
+            "inferText": "3"
+        },
+        {
+            "inferText": "15"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": ". Trans"
+        },
+        {
+            "inferText": "0"
+        },
+        {
+            "inferText": "0"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "Carbohydrate"
+        },
+        {
+            "inferText": "19"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "Fibre"
+        },
+        {
+            "inferText": "2"
+        },
+        {
+            "inferText": "g"
+        },
+        {
+            "inferText": "7"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Sugars"
+        },
+        {
+            "inferText": "14 g"
+        },
+        {
+            "inferText": "14"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Protein"
+        },
+        {
+            "inferText": "2"
+        },
+        {
+            "inferText": "2g"
+        },
+        {
+            "inferText": "Cholesterol"
+        },
+        {
+            "inferText": "0"
+        },
+        {
+            "inferText": "mg"
+        },
+        {
+            "inferText": "Sodium"
+        },
+        {
+            "inferText": "5"
+        },
+        {
+            "inferText": "mg"
+        },
+        {
+            "inferText": "1"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Potassium"
+        },
+        {
+            "inferText": "200"
+        },
+        {
+            "inferText": "mg"
+        },
+        {
+            "inferText": "4"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Calcium"
+        },
+        {
+            "inferText": "20"
+        },
+        {
+            "inferText": "mg"
+        },
+        {
+            "inferText": "2%"
+        },
+        {
+            "inferText": "Iron"
+        },
+        {
+            "inferText": "0.5"
+        },
+        {
+            "inferText": "mg"
+        },
+        {
+            "inferText": "3%"
+        },
+        {
+            "inferText": "Thiamine"
+        },
+        {
+            "inferText": "0.05"
+        },
+        {
+            "inferText": "mg"
+        },
+        {
+            "inferText": "4"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Riboflavin"
+        },
+        {
+            "inferText": "0.05"
+        },
+        {
+            "inferText": "mg"
+        },
+        {
+            "inferText": "4"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "5%"
+        },
+        {
+            "inferText": "or"
+        },
+        {
+            "inferText": "less"
+        },
+        {
+            "inferText": "is"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "little."
+        },
+        {
+            "inferText": "15%"
+        },
+        {
+            "inferText": "or"
+        },
+        {
+            "inferText": "more"
+        },
+        {
+            "inferText": "is"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "lot"
+        }
+    ]
+}

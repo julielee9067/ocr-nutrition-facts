@@ -1,0 +1,391 @@
+{
+    "fields": [
+        {
+            "inferText": "Nutrition Facts"
+        },
+        {
+            "inferText": "1 serving per potato"
+        },
+        {
+            "inferText": "Serving size 1 potato (148g/5.3oz)"
+        },
+        {
+            "inferText": "Amount per serving"
+        },
+        {
+            "inferText": "110"
+        },
+        {
+            "inferText": "Calories"
+        },
+        {
+            "inferText": "% Daily Value*"
+        },
+        {
+            "inferText": "Total Fat 0g 0%"
+        },
+        {
+            "inferText": "Saturated Fat 0g 0%"
+        },
+        {
+            "inferText": "Trans Fat"
+        },
+        {
+            "inferText": "0g"
+        },
+        {
+            "inferText": "Cholesterol Omg 0%"
+        },
+        {
+            "inferText": "Sodium Omg 0%"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Carbohydrate 26g 9%"
+        },
+        {
+            "inferText": "Dietary Fiber 2g 7%"
+        },
+        {
+            "inferText": "Total Sugars 1g"
+        },
+        {
+            "inferText": "Includes 0g Added Sugars 0%"
+        },
+        {
+            "inferText": "Protein 3g"
+        },
+        {
+            "inferText": "Vitamin D 0mcg 0%"
+        },
+        {
+            "inferText": "Calcium 20mg 2%"
+        },
+        {
+            "inferText": "Iron"
+        },
+        {
+            "inferText": "1.1mg"
+        },
+        {
+            "inferText": "6%"
+        },
+        {
+            "inferText": "Potassium 620mg 15%"
+        },
+        {
+            "inferText": "Vitamin C 27mg 30%"
+        },
+        {
+            "inferText": "Vitamin B, 6 0.2mg 10%"
+        },
+        {
+            "inferText": "The % Daily Value (DV) tells you how much a nutrient in a"
+        },
+        {
+            "inferText": "serving of food contributes to a daily diet. 2,000 calories a"
+        },
+        {
+            "inferText": "Nutrition"
+        },
+        {
+            "inferText": "Facts"
+        },
+        {
+            "inferText": "1"
+        },
+        {
+            "inferText": "serving"
+        },
+        {
+            "inferText": "per"
+        },
+        {
+            "inferText": "potato"
+        },
+        {
+            "inferText": "Serving"
+        },
+        {
+            "inferText": "size"
+        },
+        {
+            "inferText": "1"
+        },
+        {
+            "inferText": "potato"
+        },
+        {
+            "inferText": "(148g/5.3oz)"
+        },
+        {
+            "inferText": "Amount"
+        },
+        {
+            "inferText": "per"
+        },
+        {
+            "inferText": "serving"
+        },
+        {
+            "inferText": "110"
+        },
+        {
+            "inferText": "Calories"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Daily"
+        },
+        {
+            "inferText": "Value*"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "0g"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "Saturated"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "0g"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "Trans"
+        },
+        {
+            "inferText": "Fat"
+        },
+        {
+            "inferText": "0g"
+        },
+        {
+            "inferText": "Cholesterol"
+        },
+        {
+            "inferText": "Omg"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "Sodium"
+        },
+        {
+            "inferText": "Omg"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Carbohydrate"
+        },
+        {
+            "inferText": "26g"
+        },
+        {
+            "inferText": "9%"
+        },
+        {
+            "inferText": "Dietary"
+        },
+        {
+            "inferText": "Fiber"
+        },
+        {
+            "inferText": "2g"
+        },
+        {
+            "inferText": "7%"
+        },
+        {
+            "inferText": "Total"
+        },
+        {
+            "inferText": "Sugars"
+        },
+        {
+            "inferText": "1g"
+        },
+        {
+            "inferText": "Includes"
+        },
+        {
+            "inferText": "0g"
+        },
+        {
+            "inferText": "Added"
+        },
+        {
+            "inferText": "Sugars"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "Protein"
+        },
+        {
+            "inferText": "3g"
+        },
+        {
+            "inferText": "Vitamin"
+        },
+        {
+            "inferText": "D"
+        },
+        {
+            "inferText": "0mcg"
+        },
+        {
+            "inferText": "0%"
+        },
+        {
+            "inferText": "Calcium"
+        },
+        {
+            "inferText": "20mg"
+        },
+        {
+            "inferText": "2%"
+        },
+        {
+            "inferText": "Iron"
+        },
+        {
+            "inferText": "1.1mg"
+        },
+        {
+            "inferText": "6%"
+        },
+        {
+            "inferText": "Potassium"
+        },
+        {
+            "inferText": "620mg"
+        },
+        {
+            "inferText": "15%"
+        },
+        {
+            "inferText": "Vitamin"
+        },
+        {
+            "inferText": "C"
+        },
+        {
+            "inferText": "27mg"
+        },
+        {
+            "inferText": "30%"
+        },
+        {
+            "inferText": "Vitamin"
+        },
+        {
+            "inferText": "B,"
+        },
+        {
+            "inferText": "0.2mg"
+        },
+        {
+            "inferText": "10%"
+        },
+        {
+            "inferText": "6"
+        },
+        {
+            "inferText": "The"
+        },
+        {
+            "inferText": "%"
+        },
+        {
+            "inferText": "Daily"
+        },
+        {
+            "inferText": "Value"
+        },
+        {
+            "inferText": "(DV)"
+        },
+        {
+            "inferText": "tells"
+        },
+        {
+            "inferText": "you"
+        },
+        {
+            "inferText": "how"
+        },
+        {
+            "inferText": "much"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "nutrient"
+        },
+        {
+            "inferText": "in"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "serving"
+        },
+        {
+            "inferText": "of"
+        },
+        {
+            "inferText": "food"
+        },
+        {
+            "inferText": "contributes"
+        },
+        {
+            "inferText": "to"
+        },
+        {
+            "inferText": "a"
+        },
+        {
+            "inferText": "daily"
+        },
+        {
+            "inferText": "diet."
+        },
+        {
+            "inferText": "2,000"
+        },
+        {
+            "inferText": "calories"
+        },
+        {
+            "inferText": "a"
+        }
+    ]
+}
