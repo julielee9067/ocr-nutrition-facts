@@ -1,0 +1,9 @@
+venv/
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+.gitmodules
+.idea/
+resources/results/*
+models/
+config.*
